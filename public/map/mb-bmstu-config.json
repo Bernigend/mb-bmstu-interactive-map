@@ -24,8 +24,8 @@
   ],
   "levels": [
     {
-      "id": "test-floor",
-      "title": "Test floor",
+      "id": "floor-1",
+      "title": "ГУК - 1 этаж",
       "map": "./map/map-m.png",
       "show": "true",
       "locations": [
@@ -41,6 +41,87 @@
         },
         {
           "id": "room-36",
+          "title": "36 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        }
+      ]
+    },
+    {
+      "id": "floor-2",
+      "title": "ГУК - 2 этаж",
+      "map": "./map/map-m.png",
+      "locations": [
+        {
+          "id": "room-301",
+          "title": "30 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        },
+        {
+          "id": "room-361",
+          "title": "36 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        }
+      ]
+    },
+    {
+      "id": "floor-3",
+      "title": "ГУК - 3 этаж",
+      "map": "./map/map-m.png",
+      "locations": [
+        {
+          "id": "room-302",
+          "title": "30 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        },
+        {
+          "id": "room-362",
+          "title": "36 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        }
+      ]
+    },
+    {
+      "id": "floor-4",
+      "title": "ГУК - 4 этаж",
+      "map": "./map/map-m.png",
+      "locations": [
+        {
+          "id": "room-303",
+          "title": "30 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        },
+        {
+          "id": "room-363",
           "title": "36 кабинет",
           "about": "Test about",
           "description": "Test description",
