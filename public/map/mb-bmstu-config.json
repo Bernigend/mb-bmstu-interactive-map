@@ -26,7 +26,7 @@
     {
       "id": "test-floor",
       "title": "Test floor",
-      "map": "./map/mb-bmstu-map-2.svg",
+      "map": "./map/map.jpg",
       "show": "true",
       "locations": [
         {
