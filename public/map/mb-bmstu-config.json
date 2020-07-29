@@ -26,7 +26,7 @@
     {
       "id": "test-floor",
       "title": "Test floor",
-      "map": "./map/map.jpg",
+      "map": "./map/map-m.png",
       "show": "true",
       "locations": [
         {
