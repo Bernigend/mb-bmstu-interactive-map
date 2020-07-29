@@ -1,0 +1,55 @@
+{
+  "mapwidth": "3000",
+  "mapheight": "1200",
+  "defaultstyle": "light",
+  "styles": [
+    {
+      "class": "light",
+      "hover": { "fill": "#f4f4f4" },
+      "active": { "fill": "#fff" }
+    },
+    {
+      "class": "dark",
+      "hover": { "fill": "#666" },
+      "active": { "fill": "#555" }
+    }
+  ],
+  "categories": [
+    {
+      "id": "test-category",
+      "title": "Test category",
+      "about": "Test about",
+      "color": "#FF9595"
+    }
+  ],
+  "levels": [
+    {
+      "id": "test-floor",
+      "title": "Test floor",
+      "map": "./map/mb-bmstu-map-2.svg",
+      "show": "true",
+      "locations": [
+        {
+          "id": "room-30",
+          "title": "30 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        },
+        {
+          "id": "room-36",
+          "title": "36 кабинет",
+          "about": "Test about",
+          "description": "Test description",
+          "style": "room",
+          "x": "0.2792",
+          "y": "0.7940",
+          "zoom": "3"
+        }
+      ]
+    }
+  ]
+}
