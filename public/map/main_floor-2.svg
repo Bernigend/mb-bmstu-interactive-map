@@ -1,0 +1,941 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2646.3 1165.66">
+  <defs>
+    <clipPath id="clip-path" transform="translate(-90.99 -24.71)">
+      <path d="M1002.72,290l1.27-1.31a9.14,9.14,0,0,0-2.5,7.05l-1.27,1.32A9.1,9.1,0,0,1,1002.72,290Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-2" transform="translate(-90.99 -24.71)">
+      <path d="M1013.2,298.76l6.35-6.58a9.15,9.15,0,0,0-2.51,7.07l-6.35,6.57A9.11,9.11,0,0,1,1013.2,298.76Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-3" transform="translate(-90.99 -24.71)">
+      <path d="M2700.29,1143.83l-.5.52a9,9,0,0,1-6.52,2.71l.5-.52A9,9,0,0,0,2700.29,1143.83Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-4" transform="translate(-90.99 -24.71)">
+      <path d="M2445.32,1004l.5-.52a8.94,8.94,0,0,0-2.47,7l-.5.51A9,9,0,0,1,2445.32,1004Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-5" transform="translate(-90.99 -24.71)">
+      <path d="M2462.46,1146.54l-.5.52a10.51,10.51,0,0,1-10.34-9.66l.5-.52A10.51,10.51,0,0,0,2462.46,1146.54Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-6" transform="translate(-90.99 -24.71)">
+      <path d="M2301.79,28.73l1.25-1.29a9,9,0,0,0-2.47,6.94l-1.25,1.3A9,9,0,0,1,2301.79,28.73Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-7" transform="translate(-90.99 -24.71)">
+      <path d="M2317.1,41l6.25-6.47a8.94,8.94,0,0,0-2.47,7L2314.63,48A8.94,8.94,0,0,1,2317.1,41Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-8" transform="translate(-90.99 -24.71)">
+      <path d="M2695.36,1125.45l-6.25,6.47a9,9,0,0,1-6.52,2.72l6.25-6.48A9,9,0,0,0,2695.36,1125.45Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-9" transform="translate(-90.99 -24.71)">
+      <path d="M2477.55,1128.16l-6.25,6.48A10.52,10.52,0,0,1,2461,1125l6.25-6.47A10.5,10.5,0,0,0,2477.55,1128.16Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-10" transform="translate(-90.99 -24.71)">
+      <path d="M93.47,104.74l1.25-1.29a9,9,0,0,0-2.47,7L91,111.74A9,9,0,0,1,93.47,104.74Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-11" transform="translate(-90.99 -24.71)">
+      <path d="M373.29,1139.74l-.5.52a9,9,0,0,1-6.52,2.71l.5-.52A9,9,0,0,0,373.29,1139.74Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-12" transform="translate(-90.99 -24.71)">
+      <path d="M108.77,1003.74l.5-.52a9,9,0,0,0-2.46,7l-.5.52A9,9,0,0,1,108.77,1003.74Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-13" transform="translate(-90.99 -24.71)">
+      <path d="M125.64,1142.48l-.5.52a10.5,10.5,0,0,1-10.32-9.66l.5-.51A10.49,10.49,0,0,0,125.64,1142.48Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-14" transform="translate(-90.99 -24.71)">
+      <path d="M369.37,1119.67l-6.25,6.47a9,9,0,0,1-6.52,2.71l6.25-6.47A9,9,0,0,0,369.37,1119.67Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-15" transform="translate(-90.99 -24.71)">
+      <path d="M123.42,1015.4l6.25-6.47a9,9,0,0,0-2.47,7l-6.25,6.48A9,9,0,0,1,123.42,1015.4Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-16" transform="translate(-90.99 -24.71)">
+      <path d="M144.29,1122.38l-6.25,6.47a10.52,10.52,0,0,1-10.33-9.66l6.25-6.47A10.52,10.52,0,0,0,144.29,1122.38Z" style="fill: none"/>
+    </clipPath>
+    <clipPath id="clip-path-17" transform="translate(-90.99 -24.71)">
+      <path d="M107.79,117.6l6.25-6.47a9,9,0,0,0-2.47,7l-6.28,6.42A9.09,9.09,0,0,1,107.79,117.6Z" style="fill: none"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g id="Фундамент">
+      <g>
+        <polygon points="1680.19 761.75 1678.92 763.06 1539.95 763.06 1541.22 761.75 1680.19 761.75" style="fill: #818a61"/>
+        <polygon points="1541.22 761.75 1539.95 763.06 1529.04 605.61 1530.31 604.29 1541.22 761.75" style="fill: #818a61"/>
+        <polygon points="1669.27 604.29 1680.19 761.75 1541.22 761.75 1530.31 604.29 1669.27 604.29" style="fill: #cfdb98"/>
+      </g>
+      <g>
+        <polygon points="1088.53 763.64 1087.26 764.95 991.15 764.95 992.42 763.64 1088.53 763.64" style="fill: #818a61"/>
+        <polygon points="992.42 763.64 991.15 764.95 987.66 714.73 988.94 713.41 992.42 763.64" style="fill: #818a61"/>
+        <polygon points="1085.05 713.41 1088.53 763.64 992.42 763.64 988.94 713.41 1085.05 713.41" style="fill: #cfdb98"/>
+      </g>
+      <g>
+        <g style="clip-path: url(#clip-path)">
+          <path d="M1001.49,295.72l-1.27,1.32a9.12,9.12,0,0,1,2.5-7.11l1.27-1.32a9.17,9.17,0,0,0-2.5,7.06" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+        </g>
+        <polygon points="933.84 607.6 932.57 608.91 909.22 272.33 910.49 271.02 933.84 607.6" style="fill: #818a61"/>
+        <polygon points="1669.73 607.6 1668.46 608.91 932.57 608.91 933.84 607.6 1669.73 607.6" style="fill: #818a61"/>
+        <path d="M1726.88,285.91a10.69,10.69,0,0,1,10.5,9.81l23.37,336.58H1024.87L1001.5,295.72a9,9,0,0,1,8.23-9.78c.3,0,.61,0,.91,0Z" transform="translate(-90.99 -24.71)" style="fill: #cfdb98"/>
+      </g>
+      <g>
+        <polygon points="1268.59 651.3 1267.32 652.61 1035.99 652.61 1037.27 651.3 1268.59 651.3" style="fill: #818a61"/>
+        <polygon points="1037.27 651.3 1035.99 652.61 1032.76 606.11 1034.03 604.8 1037.27 651.3" style="fill: #818a61"/>
+        <polygon points="1265.36 604.8 1268.59 651.3 1037.27 651.3 1034.03 604.8 1265.36 604.8" style="fill: #cfdb98"/>
+      </g>
+      <g>
+        <polygon points="1047.17 763.63 1045.89 764.94 943.4 764.94 944.67 763.63 1047.17 763.63" style="fill: #818a61"/>
+        <polygon points="944.67 763.63 943.4 764.94 931.28 590.26 932.56 588.95 944.67 763.63" style="fill: #818a61"/>
+        <polygon points="1035.05 588.95 1047.17 763.63 944.67 763.63 932.56 588.95 1035.05 588.95" style="fill: #cfdb98"/>
+      </g>
+      <polygon points="1660.97 493.27 1671.89 650.72 1533.68 650.72 1522.76 493.27 1660.97 493.27" style="fill: #cfdb98"/>
+    </g>
+    <g id="Аудитории">
+      <g id="MLOC-rooms-G">
+        <g id="room-279">
+          <g>
+            <polygon points="966.82 421.27 960.47 427.85 929.41 427.85 935.77 421.27 966.82 421.27" style="fill: #7a7a75"/>
+            <polygon points="935.77 421.27 929.41 427.85 924.35 354.9 930.71 348.33 935.77 421.27" style="fill: #7a7a75"/>
+            <polygon points="961.76 348.33 966.82 421.27 935.77 421.27 930.71 348.33 961.76 348.33" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-278">
+          <g>
+            <polygon points="1054.35 503.46 1048 510.04 1016.96 510.04 1023.31 503.46 1054.35 503.46" style="fill: #7a7a75"/>
+            <polygon points="1023.31 503.46 1016.96 510.04 1006.18 354.78 1012.54 348.2 1023.31 503.46" style="fill: #7a7a75"/>
+            <polygon points="1043.59 348.2 1054.35 503.46 1023.31 503.46 1012.54 348.2 1043.59 348.2" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-277">
+          <g>
+            <polygon points="972.8 506.95 966.45 513.52 935.4 513.52 941.75 506.95 972.8 506.95" style="fill: #7a7a75"/>
+            <polygon points="941.75 506.95 935.4 513.52 930.34 440.58 936.69 434 941.75 506.95" style="fill: #7a7a75"/>
+            <polygon points="967.74 434 972.8 506.95 941.75 506.95 936.69 434 967.74 434" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-276">
+          <g>
+            <polygon points="978.82 592.76 972.48 599.34 941.42 599.34 947.77 592.76 978.82 592.76" style="fill: #7a7a75"/>
+            <polygon points="947.77 592.76 941.42 599.34 936.36 526.39 942.71 519.82 947.77 592.76" style="fill: #7a7a75"/>
+            <polygon points="973.77 519.82 978.82 592.76 947.77 592.76 942.71 519.82 973.77 519.82" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="stairs-289">
+          <g>
+            <polygon points="1665.36 593.59 1659 600.16 1579.21 600.16 1585.57 593.59 1665.36 593.59" style="fill: #955f21"/>
+            <polygon points="1585.57 593.59 1579.21 600.16 1576.68 563.68 1583.04 557.11 1585.57 593.59" style="fill: #955f21"/>
+            <polygon points="1662.83 557.11 1665.36 593.59 1585.57 593.59 1583.04 557.11 1662.83 557.11" style="fill: #ed9337"/>
+          </g>
+        </g>
+        <g id="stairs-287">
+          <g>
+            <polygon points="1645.74 301.78 1639.39 308.35 1559.6 308.35 1565.95 301.78 1645.74 301.78" style="fill: #955f21"/>
+            <polygon points="1565.95 301.78 1559.6 308.35 1557.07 271.87 1563.42 265.3 1565.95 301.78" style="fill: #955f21"/>
+            <path d="M1724.38,290a10.68,10.68,0,0,1,10.5,9.81l1.85,26.66h-79.79L1654.4,290Z" transform="translate(-90.99 -24.71)" style="fill: #ed9337"/>
+          </g>
+        </g>
+        <g id="stairs-281">
+          <g>
+            <g style="clip-path: url(#clip-path-2)">
+              <path d="M1017,299.25l-6.35,6.57a9.09,9.09,0,0,1,2.51-7.11l6.35-6.58a9.15,9.15,0,0,0-2.51,7.07" transform="translate(-90.99 -24.71)" style="fill: #996222"/>
+            </g>
+            <polygon points="927.9 301.2 921.55 307.77 919.7 281.11 926.05 274.54 927.9 301.2" style="fill: #955f21"/>
+            <polygon points="1007.69 301.2 1001.34 307.77 921.55 307.77 927.9 301.2 1007.69 301.2" style="fill: #955f21"/>
+            <path d="M1096.15,289.43l2.53,36.48h-79.79L1017,299.25a9,9,0,0,1,8.24-9.79,6.86,6.86,0,0,1,.91,0Z" transform="translate(-90.99 -24.71)" style="fill: #ed9337"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Стены">
+      <g>
+        <polygon points="961.69 747.89 955.33 754.46 953.37 754.46 959.72 747.89 961.69 747.89" style="fill: #7a7a75"/>
+        <polygon points="959.72 747.89 953.37 754.46 943.48 611.92 949.84 605.35 959.72 747.89" style="fill: #7a7a75"/>
+        <polygon points="951.8 605.35 961.69 747.89 959.72 747.89 949.84 605.35 951.8 605.35" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="932.47 338.25 926.12 344.83 924.16 344.83 930.51 338.25 932.47 338.25" style="fill: #7a7a75"/>
+        <polygon points="930.51 338.25 924.16 344.83 922.12 315.37 928.47 308.79 930.51 338.25" style="fill: #7a7a75"/>
+        <polygon points="930.43 308.79 932.47 338.25 930.51 338.25 928.47 308.79 930.43 308.79" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="1573.68 593.76 1567.32 600.34 1190.35 600.34 1196.7 593.76 1573.68 593.76" style="fill: #7a7a75"/>
+        <polygon points="1196.7 593.76 1190.35 600.34 1190.21 598.37 1196.57 591.8 1196.7 593.76" style="fill: #7a7a75"/>
+        <polygon points="1573.53 591.8 1573.68 593.76 1196.7 593.76 1196.57 591.8 1573.53 591.8" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="1661.45 541.11 1655.1 547.7 1653.13 547.7 1659.48 541.11 1661.45 541.11" style="fill: #7a7a75"/>
+        <polygon points="1659.48 541.11 1653.13 547.7 1637.47 321.88 1643.83 315.3 1659.48 541.11" style="fill: #7a7a75"/>
+        <polygon points="1645.79 315.3 1661.45 541.11 1659.48 541.11 1643.83 315.3 1645.79 315.3" style="fill: #bcb9b2"/>
+      </g>
+      <path d="M1272,615a.82.82,0,0,0-.82.82v.08l.24,3.56a.82.82,0,0,1-.74.9h-2.76l-.94-13.41a1.92,1.92,0,0,0-1.33-1.69l-.26-.1h4.14a1,1,0,0,1,1,.9l.18,2.67a1,1,0,0,0,1,.9.82.82,0,0,0,.83-.81.27.27,0,0,0,0-.09l-.19-2.67a2.9,2.9,0,0,0-2.86-2.67h-9.81A1.63,1.63,0,0,0,1258,605a.91.91,0,0,0,0,.17l1.12,16a2,2,0,0,0,1.33,1.7l5.5,1.79a1.75,1.75,0,0,0,.55.08,1.65,1.65,0,0,0,1.67-1.63.76.76,0,0,0,0-.15l-.06-.89h2.67a2.45,2.45,0,0,0,2.48-2.68l-.24-3.56A1,1,0,0,0,1272,615Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1279.55,611.66l-3.82-3.57a.92.92,0,0,0-1-.19.82.82,0,0,0-.5.82l.19,2.68h-3.56a.82.82,0,0,0-.84.81v.08a1,1,0,0,0,1,.89h3.56l.19,2.68a1,1,0,0,0,.61.82.83.83,0,0,0,1-.19l3.33-3.57A.9.9,0,0,0,1279.55,611.66Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <g>
+        <polygon points="1554.78 267.52 1548.43 274.1 1044.27 274.1 1050.62 267.52 1554.78 267.52" style="fill: #7a7a75"/>
+        <polygon points="1048.54 267.52 1042.18 274.1 1042.04 272.07 1048.4 265.48 1048.54 267.52" style="fill: #7a7a75"/>
+        <polygon points="1161.38 593.12 1155.03 599.7 1066.84 599.7 1073.2 593.12 1161.38 593.12" style="fill: #7a7a75"/>
+        <polygon points="1070.97 591.09 1064.62 597.65 1042.18 274.1 1048.54 267.52 1070.97 591.09" style="fill: #7a7a75"/>
+        <polygon points="1071.11 593.12 1064.76 599.7 1064.62 597.65 1070.97 591.09 1071.11 593.12" style="fill: #7a7a75"/>
+        <polygon points="1073.2 593.12 1066.84 599.7 1064.76 599.7 1071.11 593.12 1073.2 593.12" style="fill: #7a7a75"/>
+        <polygon points="1554.64 265.48 1554.78 267.52 1050.62 267.52 1073.05 591.09 1161.24 591.09 1161.38 593.12 1073.2 593.12 1071.11 593.12 1070.97 591.09 1048.54 267.52 1048.4 265.48 1050.48 265.48 1554.64 265.48" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="1040.5 267.92 1034.15 274.5 1009.6 274.5 1015.95 267.92 1040.5 267.92" style="fill: #7a7a75"/>
+        <polygon points="1015.95 267.92 1009.6 274.5 1009.46 272.53 1015.81 265.96 1015.95 267.92" style="fill: #7a7a75"/>
+        <polygon points="1040.36 265.96 1040.5 267.92 1015.95 267.92 1015.81 265.96 1040.36 265.96" style="fill: #bcb9b2"/>
+      </g>
+    </g>
+    <g id="Тексты">
+      <text transform="matrix(1, 0, 0.07, 1, 949.69, 563.06)" style="isolation: isolate;font-size: 14.712849617004395px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">276</text>
+      <g style="isolation: isolate">
+        <text transform="matrix(1, 0, 0.07, 1, 1300.81, 429.92)" style="isolation: isolate;font-size: 19.79714012145996px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">А</text>
+        <text transform="matrix(1, 0, 0.07, 1, 1315.07, 429.92)" style="isolation: isolate;font-size: 19.79714012145996px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.02000216701636973em">К</text>
+        <text transform="matrix(1, 0, 0.07, 1, 1327.61, 429.92)" style="isolation: isolate;font-size: 19.79714012145996px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: -0.02000216701636973em">Т</text>
+        <text transform="matrix(1, 0, 0.07, 1, 1339.19, 429.92)" style="isolation: isolate;font-size: 19.79714012145996px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">ОВЫЙ З</text>
+        <text transform="matrix(1, 0, 0.07, 1, 1420.19, 429.92)" style="isolation: isolate;font-size: 19.79714012145996px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: 0.009988721229435562em">А</text>
+        <text transform="matrix(1, 0, 0.07, 1, 1434.69, 429.92)" style="isolation: isolate;font-size: 19.79714012145996px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">Л</text>
+      </g>
+      <text transform="matrix(1, 0, 0.07, 1, 944.02, 475.12)" style="isolation: isolate;font-size: 14.712849617004395px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">277</text>
+      <text transform="matrix(1, 0, 0.07, 1, 937.59, 389.88)" style="isolation: isolate;font-size: 14.712849617004395px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">279</text>
+      <g style="isolation: isolate">
+        <text transform="matrix(1, 0, 0.07, 1, 1022.08, 423.51)" style="isolation: isolate;font-size: 14.712849617004395px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">278</text>
+        <text transform="matrix(1, 0, 0.07, 1, 1023.31, 441.11)" style="isolation: isolate;font-size: 14.712849617004395px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">280</text>
+      </g>
+    </g>
+    <g id="Иконки">
+      <path d="M1063.91,302.67h-4.24a.33.33,0,0,0-.33.33v0l.2,2.82a.33.33,0,0,1-.31.36h-4.62a.32.32,0,0,0-.33.31v0l.2,2.83a.33.33,0,0,1-.31.35h-4.26a.34.34,0,0,0-.34.33v0l.21,2.83a.33.33,0,0,1-.32.35h-3.89a.65.65,0,0,0-.65.65V314l.14,2.13a.78.78,0,0,0,.76.7h19.06a.63.63,0,0,0,.65-.63v-.07l-.88-12.75A.78.78,0,0,0,1063.91,302.67Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1064.62,297.92h0l-.09-.11-1.89-1.77a.36.36,0,0,0-.49,0,.37.37,0,0,0,0,.5l1.25,1.16h-6.55a.64.64,0,0,0-.66.64v.07l.19,2.84h-4.24a.66.66,0,0,0-.66.64V302l.19,2.85h-4.23a.63.63,0,0,0-.66.63v.07l.15,2.12h-2.48a.34.34,0,0,0-.34.34,0,0,0,0,0,0,0,.38.38,0,0,0,.38.35H1047a.64.64,0,0,0,.66-.63.22.22,0,0,0,0-.08l-.14-2.12h4.24a.66.66,0,0,0,.66-.64v-.06l-.19-2.81h4.23a.66.66,0,0,0,.67-.64.13.13,0,0,0,0-.06l-.19-2.84h6.58l-1.09,1.17a.35.35,0,0,0-.07.35.37.37,0,0,0,.26.24.33.33,0,0,0,.35-.09l1.64-1.77A.33.33,0,0,0,1064.62,297.92Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1342.63,646.17h-5.69a.44.44,0,0,0-.44.43s0,0,0,0l.26,3.8a.44.44,0,0,1-.42.47h-6.19a.45.45,0,0,0-.45.43.09.09,0,0,0,0,0l.26,3.79a.44.44,0,0,1-.39.48h-5.74a.43.43,0,0,0-.44.41v.06l.27,3.8a.45.45,0,0,1-.43.47H1318a.87.87,0,0,0-.89.86v.09l.21,2.85a1,1,0,0,0,1,.94H1344a.86.86,0,0,0,.88-.86v-.08l-1.19-17.08A1,1,0,0,0,1342.63,646.17Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1343.58,639.82h0a.57.57,0,0,0-.12-.15l-2.53-2.38a.5.5,0,0,0-.67,0,.47.47,0,0,0,0,.66l1.67,1.57h-8.72a.86.86,0,0,0-.88.86.21.21,0,0,0,0,.08l.26,3.81h-5.69a.87.87,0,0,0-.89.86.22.22,0,0,0,0,.08l.26,3.79h-5.69a.89.89,0,0,0-.89.88V650l.21,2.84h-3.33a.44.44,0,0,0-.43.44v0a.52.52,0,0,0,.5.48H1320a.86.86,0,0,0,.88-.85.38.38,0,0,0,0-.1l-.19-2.84h5.69a.89.89,0,0,0,.89-.88V649l-.28-3.79h5.69a.87.87,0,0,0,.89-.86v-.08l-.33-3.82H1342l-1.45,1.57a.47.47,0,0,0-.09.47.48.48,0,0,0,.37.33.45.45,0,0,0,.44-.13l2.21-2.37A.48.48,0,0,0,1343.58,639.82Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1724.53,596.3h-4.24a.34.34,0,0,0-.34.32.08.08,0,0,0,0,0l.2,2.82a.34.34,0,0,1-.32.36h-4.61a.32.32,0,0,0-.34.31v0l.21,2.83a.34.34,0,0,1-.32.36h-4.26a.33.33,0,0,0-.33.33v0l.2,2.83a.33.33,0,0,1-.31.35h-3.85a.65.65,0,0,0-.65.65v.06l.15,2.13a.76.76,0,0,0,.76.7h19.06a.64.64,0,0,0,.65-.63v-.07l-.89-12.75A.77.77,0,0,0,1724.53,596.3Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1725.27,591.57h0a.25.25,0,0,0-.08-.12l-1.89-1.77a.35.35,0,0,0-.5.5l1.25,1.16h-6.57a.66.66,0,0,0-.67.64v.07l.2,2.84h-4.24a.64.64,0,0,0-.66.64v.06l.19,2.84h-4.24a.64.64,0,0,0-.66.63v.07l.16,2.12h-2.48a.33.33,0,0,0-.33.33v0a.39.39,0,0,0,.38.35h2.47a.65.65,0,0,0,.66-.63v-.08l-.15-2.12h4.24a.66.66,0,0,0,.67-.64.13.13,0,0,0,0-.06l-.19-2.84h4.24a.65.65,0,0,0,.66-.64v-.06l-.19-2.84h6.57l-1.09,1.17a.37.37,0,0,0-.07.35.37.37,0,0,0,.27.24.31.31,0,0,0,.34-.09l1.65-1.77A.34.34,0,0,0,1725.27,591.57Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1705,305.5h-4.25a.32.32,0,0,0-.32.32v0l.19,2.84a.31.31,0,0,1-.29.35h-4.64a.31.31,0,0,0-.32.31v0l.19,2.84a.32.32,0,0,1-.29.35H1691a.31.31,0,0,0-.33.3v.05l.2,2.83a.34.34,0,0,1-.3.36h-3.92a.65.65,0,0,0-.66.66v0l.15,2.12a.78.78,0,0,0,.75.72H1706a.65.65,0,0,0,.66-.64v-.08l-.89-12.73A.77.77,0,0,0,1705,305.5Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1705.65,300.77h0a.42.42,0,0,0-.08-.12l-1.9-1.77a.33.33,0,0,0-.47,0h0a.33.33,0,0,0,0,.47v0l1.24,1.17h-6.57a.65.65,0,0,0-.65.64v.07l.19,2.82h-4.25a.65.65,0,0,0-.65.65v.07l.2,2.82h-4.25a.66.66,0,0,0-.66.65.13.13,0,0,0,0,.06l.14,2.13h-2.48a.32.32,0,0,0-.33.32v0a.38.38,0,0,0,.38.35H1688a.67.67,0,0,0,.66-.66v0l-.15-2.13h4.25a.66.66,0,0,0,.66-.66v-.05l-.21-2.82h4.25a.66.66,0,0,0,.66-.66v-.06l-.2-2.82h6.58l-1.08,1.16a.33.33,0,0,0-.08.34.39.39,0,0,0,.27.26.36.36,0,0,0,.34-.09l1.64-1.77A.36.36,0,0,0,1705.65,300.77Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+    </g>
+  </g>
+  <g>
+    <g id="Фундамент-2" data-name="Фундамент">
+      <g>
+        <polygon points="2646.3 860.13 2645.05 861.43 2513.78 861.43 2515.03 860.13 2646.3 860.13" style="fill: #818a61"/>
+        <polygon points="2515.03 860.13 2513.78 861.43 2510.25 810.55 2511.5 809.25 2515.03 860.13" style="fill: #818a61"/>
+        <polygon points="2642.77 809.25 2646.3 860.13 2515.03 860.13 2511.5 809.25 2642.77 809.25" style="fill: #cfdb98"/>
+      </g>
+      <g id="Под_30" data-name="Под 30">
+        <g>
+          <g style="clip-path: url(#clip-path-3)">
+            <path d="M2700.29,1143.83l-.5.52a9,9,0,0,1-6.52,2.71l.5-.52a9,9,0,0,0,6.52-2.71" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+          </g>
+          <g style="clip-path: url(#clip-path-4)">
+            <path d="M2443.35,1010.4l-.5.51a9,9,0,0,1,2.47-6.94l.5-.52a8.94,8.94,0,0,0-2.47,7" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+          </g>
+          <polygon points="2602.78 1121.84 2602.28 1122.36 2370.97 1122.36 2371.47 1121.84 2602.78 1121.84" style="fill: #818a61"/>
+          <polygon points="2361.13 1112.18 2360.63 1112.7 2351.86 986.21 2352.36 985.69 2361.13 1112.18" style="fill: #818a61"/>
+          <g style="clip-path: url(#clip-path-5)">
+            <path d="M2462.46,1146.54l-.5.52a10.51,10.51,0,0,1-10.34-9.66l.5-.52a10.51,10.51,0,0,0,10.34,9.66" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+          </g>
+          <path d="M2683.66,1000.73a10.52,10.52,0,0,1,10.33,9.66l8.77,126.48a8.9,8.9,0,0,1-8.11,9.63c-.3,0-.6,0-.89,0h-231.3a10.51,10.51,0,0,1-10.34-9.66l-8.77-126.48a8.89,8.89,0,0,1,8.1-9.63l.9,0Z" transform="translate(-90.99 -24.71)" style="fill: #cfdb98"/>
+        </g>
+      </g>
+      <g>
+        <g style="clip-path: url(#clip-path-6)">
+          <path d="M2300.57,34.36l-1.25,1.3a8.94,8.94,0,0,1,2.47-7l1.25-1.29a9,9,0,0,0-2.47,6.94" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+        </g>
+        <polygon points="2267.79 848.97 2266.54 850.26 2208.33 10.95 2209.58 9.66 2267.79 848.97" style="fill: #818a61"/>
+        <polygon points="2546.04 848.97 2544.79 850.26 2266.54 850.26 2267.79 848.97 2546.04 848.97" style="fill: #818a61"/>
+        <path d="M2568.46,24.73a10.52,10.52,0,0,1,10.33,9.65L2637,873.69H2358.78L2300.57,34.36a8.89,8.89,0,0,1,8.11-9.62c.3,0,.59,0,.89,0Z" transform="translate(-90.99 -24.71)" style="fill: #cfdb98"/>
+      </g>
+      <g>
+        <polygon points="2563.06 1093.23 2561.81 1094.52 1718.69 1094.52 1719.94 1093.23 2563.06 1093.23" style="fill: #818a61"/>
+        <polygon points="1719.94 1093.23 1718.69 1094.52 1700.41 830.97 1701.66 829.68 1719.94 1093.23" style="fill: #818a61"/>
+        <polygon points="2544.78 829.68 2563.06 1093.23 1719.94 1093.23 1701.66 829.68 2544.78 829.68" style="fill: #cfdb98"/>
+      </g>
+      <polygon points="2568.91 1067.91 2571.24 1101.59 2360.41 1101.59 2358.08 1067.91 2568.91 1067.91" style="fill: #cfdb98"/>
+    </g>
+    <g id="Аудитории-2" data-name="Аудитории">
+      <g id="MLOC-rooms-V-2-col">
+        <g id="room-272">
+          <g>
+            <polygon points="2485.12 46.14 2478.87 52.61 2384.28 52.61 2390.53 46.14 2485.12 46.14" style="fill: #7a7a75"/>
+            <polygon points="2390.53 46.14 2384.28 52.61 2381.56 13.36 2387.81 6.89 2390.53 46.14" style="fill: #7a7a75"/>
+            <path d="M2563.73,31.6a10.5,10.5,0,0,1,10.32,9.65l2.06,29.6h-94.59L2478.8,31.6Z" transform="translate(-90.99 -24.71)" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-270b">
+          <g>
+            <polygon points="2510.06 411.69 2503.81 418.16 2409.23 418.16 2415.48 411.69 2510.06 411.69" style="fill: #7a7a75"/>
+            <polygon points="2415.48 411.69 2409.23 418.16 2385.04 69.34 2391.29 62.87 2415.48 411.69" style="fill: #7a7a75"/>
+            <polygon points="2485.87 62.87 2510.06 411.69 2415.48 411.69 2391.29 62.87 2485.87 62.87" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-269">
+          <g>
+            <polygon points="2523.26 606.54 2517.01 613.01 2422.43 613.01 2428.68 606.54 2523.26 606.54" style="fill: #7a7a75"/>
+            <polygon points="2428.68 606.54 2422.43 613.01 2410.17 436.24 2416.42 429.76 2428.68 606.54" style="fill: #7a7a75"/>
+            <polygon points="2511 429.76 2523.26 606.54 2428.68 606.54 2416.42 429.76 2511 429.76" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-267">
+          <g>
+            <polygon points="2532.68 722.71 2526.43 729.17 2431.85 729.17 2438.1 722.71 2532.68 722.71" style="fill: #7a7a75"/>
+            <polygon points="2438.1 722.71 2431.85 729.17 2424.89 628.78 2431.14 622.31 2438.1 722.71" style="fill: #7a7a75"/>
+            <polygon points="2525.72 622.31 2532.68 722.71 2438.1 722.71 2431.14 622.31 2525.72 622.31" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-264">
+          <g>
+            <polygon points="2485.18 822.29 2478.93 828.76 2439.38 828.76 2445.63 822.29 2485.18 822.29" style="fill: #7a7a75"/>
+            <polygon points="2445.63 822.29 2439.38 828.76 2433.44 743.27 2439.69 736.8 2445.63 822.29" style="fill: #7a7a75"/>
+            <polygon points="2479.25 736.8 2485.18 822.29 2445.63 822.29 2439.69 736.8 2479.25 736.8" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="stairs-262">
+          <g>
+            <polygon points="2546.89 928.52 2540.64 935 2446.04 935 2452.29 928.52 2546.89 928.52" style="fill: #955f21"/>
+            <polygon points="2452.29 928.52 2446.04 935 2441.9 875.18 2448.15 868.71 2452.29 928.52" style="fill: #955f21"/>
+            <polygon points="2542.74 868.71 2546.89 928.52 2452.29 928.52 2448.15 868.71 2542.74 868.71" style="fill: #ed9337"/>
+          </g>
+        </g>
+      </g>
+      <g id="MLOC-rooms-V-1-col">
+        <g id="room-268">
+          <g>
+            <polygon points="2374.21 720.46 2367.96 726.92 2273.38 726.92 2279.63 720.46 2374.21 720.46" style="fill: #7a7a75"/>
+            <polygon points="2279.63 720.46 2273.38 726.92 2253.63 442.14 2259.88 435.67 2279.63 720.46" style="fill: #7a7a75"/>
+            <polygon points="2354.46 435.67 2374.21 720.46 2279.63 720.46 2259.88 435.67 2354.46 435.67" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-270">
+          <g>
+            <polygon points="2352.7 417.16 2346.45 423.63 2251.87 423.63 2258.12 417.16 2352.7 417.16" style="fill: #7a7a75"/>
+            <polygon points="2258.12 417.16 2251.87 423.63 2230.83 120.29 2237.08 113.81 2258.12 417.16" style="fill: #7a7a75"/>
+            <polygon points="2331.67 113.81 2352.7 417.16 2258.12 417.16 2237.08 113.81 2331.67 113.81" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="elevator-266">
+          <g>
+            <polygon points="2383.51 822.33 2377.26 828.8 2282.68 828.8 2288.93 822.33 2383.51 822.33" style="fill: #3a702e"/>
+            <polygon points="2288.93 822.33 2282.68 828.8 2276.9 745.55 2283.15 739.08 2288.93 822.33" style="fill: #3a702e"/>
+            <polygon points="2377.74 739.08 2383.51 822.33 2288.93 822.33 2283.15 739.08 2377.74 739.08" style="fill: #5cad31"/>
+          </g>
+        </g>
+        <g id="stairs-273">
+          <g>
+            <g style="clip-path: url(#clip-path-7)">
+              <path d="M2320.88,41.51,2314.63,48a8.94,8.94,0,0,1,2.47-7l6.25-6.47a8.94,8.94,0,0,0-2.47,7" transform="translate(-90.99 -24.71)" style="fill: #996222"/>
+            </g>
+            <polygon points="2232.94 60.75 2226.69 67.22 2223.64 23.27 2229.89 16.8 2232.94 60.75" style="fill: #955f21"/>
+            <polygon points="2327.52 60.75 2321.27 67.22 2226.69 67.22 2232.94 60.75 2327.52 60.75" style="fill: #955f21"/>
+            <path d="M2414.79,31.85l3.72,53.6h-94.58l-3-43.94a8.89,8.89,0,0,1,8.1-9.63q.45,0,.9,0Z" transform="translate(-90.99 -24.71)" style="fill: #ed9337"/>
+          </g>
+        </g>
+      </g>
+      <g id="MLOC-rooms-V-2-row">
+        <g id="room-254">
+          <g>
+            <polygon points="2278.6 928.92 2272.35 935.39 2161.79 935.39 2168.04 928.92 2278.6 928.92" style="fill: #7a7a75"/>
+            <polygon points="2168.04 928.92 2161.79 935.39 2155.42 843.58 2161.67 837.11 2168.04 928.92" style="fill: #7a7a75"/>
+            <polygon points="2272.24 837.11 2278.6 928.92 2168.04 928.92 2161.67 837.11 2272.24 837.11" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-252">
+          <g>
+            <polygon points="2155.93 928.96 2149.68 935.43 2009.05 935.43 2015.3 928.96 2155.93 928.96" style="fill: #7a7a75"/>
+            <polygon points="2015.3 928.96 2009.05 935.43 2002.68 843.62 2008.93 837.15 2015.3 928.96" style="fill: #7a7a75"/>
+            <polygon points="2149.57 837.15 2155.93 928.96 2015.3 928.96 2008.93 837.15 2149.57 837.15" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-250">
+          <g>
+            <polygon points="2002.79 928.96 1996.54 935.43 1863.21 935.43 1869.46 928.96 2002.79 928.96" style="fill: #7a7a75"/>
+            <polygon points="1869.46 928.96 1863.21 935.43 1856.85 843.62 1863.1 837.15 1869.46 928.96" style="fill: #7a7a75"/>
+            <polygon points="1996.43 837.15 2002.79 928.96 1869.46 928.96 1863.1 837.15 1996.43 837.15" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-248">
+          <g>
+            <polygon points="1857.49 928.96 1851.24 935.43 1740.68 935.43 1746.93 928.96 1857.49 928.96" style="fill: #7a7a75"/>
+            <polygon points="1746.93 928.96 1740.68 935.43 1734.32 843.62 1740.57 837.15 1746.93 928.96" style="fill: #7a7a75"/>
+            <polygon points="1851.13 837.15 1857.49 928.96 1746.93 928.96 1740.57 837.15 1851.13 837.15" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="toilet-256">
+          <g>
+            <polygon points="2392.38 928.96 2386.13 935.43 2291.53 935.43 2297.78 928.96 2392.38 928.96" style="fill: #3b7b90"/>
+            <polygon points="2297.78 928.96 2291.53 935.43 2285.17 843.62 2291.42 837.15 2297.78 928.96" style="fill: #3b7b90"/>
+            <polygon points="2386.01 837.15 2392.38 928.96 2297.78 928.96 2291.42 837.15 2386.01 837.15" style="fill: #5abfe6"/>
+          </g>
+        </g>
+      </g>
+      <g id="MLOC-rooms-V-1-row">
+        <g id="room-261">
+          <g>
+            <g style="clip-path: url(#clip-path-8)">
+              <path d="M2695.36,1125.45l-6.25,6.47a9,9,0,0,1-6.52,2.72l6.25-6.48a9,9,0,0,0,6.52-2.71" transform="translate(-90.99 -24.71)" style="fill: #7d7d77"/>
+            </g>
+            <polygon points="2597.85 1103.46 2591.6 1109.93 2380.31 1109.93 2386.56 1103.46 2597.85 1103.46" style="fill: #7a7a75"/>
+            <polygon points="2376.23 1093.8 2369.98 1100.27 2362.08 986.41 2368.33 979.94 2376.23 1093.8" style="fill: #7a7a75"/>
+            <g style="clip-path: url(#clip-path-9)">
+              <path d="M2477.55,1128.16l-6.25,6.48A10.52,10.52,0,0,1,2461,1125l6.25-6.47a10.5,10.5,0,0,0,10.33,9.65" transform="translate(-90.99 -24.71)" style="fill: #7d7d77"/>
+            </g>
+            <path d="M2680.27,1004.65a10.52,10.52,0,0,1,10.33,9.66l7.23,104.2a8.9,8.9,0,0,1-8.1,9.62,6.77,6.77,0,0,1-.9,0H2477.55a10.5,10.5,0,0,1-10.33-9.65l-7.9-113.86Z" transform="translate(-90.99 -24.71)" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-260">
+          <g>
+            <polygon points="2363.54 1072.19 2357.29 1078.66 2300.08 1078.66 2306.33 1072.19 2363.54 1072.19" style="fill: #7a7a75"/>
+            <polygon points="2306.33 1072.19 2300.08 1078.66 2293.72 986.85 2299.97 980.38 2306.33 1072.19" style="fill: #7a7a75"/>
+            <polygon points="2357.17 980.38 2363.54 1072.19 2306.33 1072.19 2299.97 980.38 2357.17 980.38" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-255">
+          <g>
+            <polygon points="2294.21 1072.22 2287.96 1078.69 2180.18 1078.69 2186.43 1072.22 2294.21 1072.22" style="fill: #7a7a75"/>
+            <polygon points="2186.43 1072.22 2180.18 1078.69 2173.82 986.88 2180.07 980.41 2186.43 1072.22" style="fill: #7a7a75"/>
+            <polygon points="2287.85 980.41 2294.21 1072.22 2186.43 1072.22 2180.07 980.41 2287.85 980.41" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-253">
+          <g>
+            <polygon points="2176.45 1072.22 2170.2 1078.69 2078.39 1078.69 2084.64 1072.22 2176.45 1072.22" style="fill: #7a7a75"/>
+            <polygon points="2084.64 1072.22 2078.39 1078.69 2072.02 986.88 2078.27 980.41 2084.64 1072.22" style="fill: #7a7a75"/>
+            <polygon points="2170.09 980.41 2176.45 1072.22 2084.64 1072.22 2078.27 980.41 2170.09 980.41" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-251">
+          <g>
+            <polygon points="2074.03 1072.22 2067.78 1078.69 1924.3 1078.69 1930.55 1072.22 2074.03 1072.22" style="fill: #7a7a75"/>
+            <polygon points="1930.55 1072.22 1924.3 1078.69 1917.93 986.88 1924.18 980.41 1930.55 1072.22" style="fill: #7a7a75"/>
+            <polygon points="2067.66 980.41 2074.03 1072.22 1930.55 1072.22 1924.18 980.41 2067.66 980.41" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-249">
+          <g>
+            <polygon points="1918.75 1072.22 1912.5 1078.69 1753.99 1078.69 1760.24 1072.22 1918.75 1072.22" style="fill: #7a7a75"/>
+            <polygon points="1760.24 1072.22 1753.99 1078.69 1747.63 986.88 1753.88 980.41 1760.24 1072.22" style="fill: #7a7a75"/>
+            <polygon points="1912.38 980.41 1918.75 1072.22 1760.24 1072.22 1753.88 980.41 1912.38 980.41" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Стена">
+      <g>
+        <polygon points="2548.62 970.57 2542.37 977.04 2540.43 977.04 2546.68 970.57 2548.62 970.57" style="fill: #7a7a75"/>
+        <polygon points="2546.68 970.57 2540.43 977.04 2538.08 943.23 2544.33 936.76 2546.68 970.57" style="fill: #7a7a75"/>
+        <polygon points="2546.27 936.76 2548.62 970.57 2546.68 970.57 2544.33 936.76 2546.27 936.76" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="2538 792.89 2531.75 799.36 2529.82 799.36 2536.07 792.89 2538 792.89" style="fill: #7a7a75"/>
+        <polygon points="2536.07 792.89 2529.82 799.36 2525.85 742.13 2532.1 735.66 2536.07 792.89" style="fill: #7a7a75"/>
+        <polygon points="2534.03 735.66 2538 792.89 2536.07 792.89 2532.1 735.66 2534.03 735.66" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="2238.37 106.44 2232.12 112.91 2230.18 112.91 2236.43 106.44 2238.37 106.44" style="fill: #7a7a75"/>
+        <polygon points="2236.43 106.44 2230.18 112.91 2227.7 77.17 2233.95 70.7 2236.43 106.44" style="fill: #7a7a75"/>
+        <polygon points="2235.89 70.7 2238.37 106.44 2236.43 106.44 2233.95 70.7 2235.89 70.7" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="2377.09 9.16 2370.84 15.63 2332.2 15.63 2338.45 9.16 2377.09 9.16" style="fill: #7a7a75"/>
+        <polygon points="2338.45 9.16 2332.2 15.63 2332.06 13.7 2338.31 7.22 2338.45 9.16" style="fill: #7a7a75"/>
+        <polygon points="2376.95 7.22 2377.09 9.16 2338.45 9.16 2338.31 7.22 2376.95 7.22" style="fill: #bcb9b2"/>
+      </g>
+    </g>
+    <g id="Тексты-2" data-name="Тексты">
+      <text transform="matrix(1, 0, 0.07, 1, 1780.96, 886.27)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">248</text>
+      <text transform="matrix(1, 0, 0.07, 1, 1814.65, 1030.53)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">249</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2314.91, 1029.53)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">260</text>
+      <text transform="matrix(1, 0, 0.07, 1, 1915.3, 886.27)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">250</text>
+      <text transform="matrix(1, 0, 0.07, 1, 1984.3, 1030.53)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">251</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2111.11, 1029.56)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">253</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2064.61, 886.27)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">252</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2201.7, 886.27)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">254</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2219.88, 1030.53)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">255</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2450.74, 785.79)" style="isolation: isolate;font-size: 16.4702091217041px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">264</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2465.72, 677.76)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">267</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2300.43, 582.29)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">268</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2452.32, 524.59)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">269</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2276.29, 268.61)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">270</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2430.35, 239.89)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">270б</text>
+      <text transform="matrix(1, 0, 0.07, 1, 2416.09, 34.16)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">272</text>
+      <g style="isolation: isolate">
+        <text transform="matrix(1, 0, 0.07, 1, 2555.15, 830.87)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">П</text>
+        <text transform="matrix(1, 0, 0.07, 1, 2567.44, 830.87)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: -0.009994051713434706em">Р</text>
+        <text transform="matrix(1, 0, 0.07, 1, 2578.62, 830.87)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: -0.03997620685373882em">О</text>
+        <text transform="matrix(1, 0, 0.07, 1, 2591.27, 830.87)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: -0.029982155140304115em">Х</text>
+        <text transform="matrix(1, 0, 0.07, 1, 2602.23, 830.87)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: -0.009994051713434706em">О</text>
+        <text transform="matrix(1, 0, 0.07, 1, 2615.3, 830.87)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">Д</text>
+        <text transform="matrix(1, 0, 0.07, 1, 2560.39, 851.39)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">В </text>
+        <text transform="matrix(1, 0, 0.07, 1, 2577.49, 851.39)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: -0.04003331572067274em">У</text>
+        <text transform="matrix(1, 0, 0.07, 1, 2587.47, 851.39)" style="isolation: isolate;font-size: 17.1418399810791px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">ЛК-1</text>
+      </g>
+      <text transform="matrix(1, 0, 0.07, 1, 2467.25, 1029.56)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">261</text>
+    </g>
+    <g id="Иконки-2" data-name="Иконки">
+      <g id="Туалет">
+        <path d="M2422.27,903.46a5.31,5.31,0,0,1-5.22-4.88,4.48,4.48,0,0,1,4.07-4.87,3.62,3.62,0,0,1,.47,0,5.33,5.33,0,0,1,5.22,4.89,4.51,4.51,0,0,1-4.11,4.87Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M2423.52,921.34a1.07,1.07,0,0,1-1-.63l-6.27-13.84a1,1,0,0,1,0-.92.93.93,0,0,1,.79-.43h10.61a1.08,1.08,0,0,1,1,1.35l-4.27,13.86A.92.92,0,0,1,2423.52,921.34Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M2443.24,903.46a5.31,5.31,0,0,1-5.22-4.88,4.49,4.49,0,0,1,4.13-4.84h.41a5.33,5.33,0,0,1,5.22,4.89,4.51,4.51,0,0,1-4.15,4.83Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M2449.8,921.34h-10.61a1.07,1.07,0,0,1-.85-.42,1,1,0,0,1-.17-.92l4.34-13.84a.88.88,0,0,1,.88-.64,1.1,1.1,0,0,1,1,.64l6.27,13.84a1,1,0,0,1,0,.92A.93.93,0,0,1,2449.8,921.34Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M2434,921.34a1.06,1.06,0,0,1-1.06-1l-1.8-25.61a.92.92,0,0,1,.83-1h.09a1.09,1.09,0,0,1,1.06,1l1.8,25.66a.91.91,0,0,1-.87,1Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      </g>
+      <path d="M2599.14,917.44h-5.6a.44.44,0,0,0-.44.43.06.06,0,0,0,0,0l.26,3.73a.44.44,0,0,1-.39.47h-6.11a.45.45,0,0,0-.45.44v0l.27,3.73a.44.44,0,0,1-.4.46h-5.64a.44.44,0,0,0-.44.43.06.06,0,0,0,0,0l.26,3.73a.44.44,0,0,1-.39.47h-5.18a.88.88,0,0,0-.88.87.13.13,0,0,0,0,.06l.2,2.8a1,1,0,0,0,1,.94h25.21a.86.86,0,0,0,.86-.86v-.08l-1.17-16.79A1,1,0,0,0,2599.14,917.44Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M2600.07,911.2h0a.83.83,0,0,0-.11-.15l-2.5-2.32a.48.48,0,0,0-.65,0,.46.46,0,0,0,0,.65l1.64,1.54h-8.67a.86.86,0,0,0-.88.85.22.22,0,0,0,0,.08l.26,3.74h-5.6a.86.86,0,0,0-.88.85.22.22,0,0,0,0,.08l.26,3.73h-5.5a.86.86,0,0,0-.88.85.28.28,0,0,0,0,.09l.19,2.8h-3.32a.44.44,0,0,0-.45.42.06.06,0,0,0,0,0,.5.5,0,0,0,.5.47h3.27a.87.87,0,0,0,.87-.87V924l-.2-2.8h5.6a.86.86,0,0,0,.87-.85v-.09l-.26-3.73h5.6a.86.86,0,0,0,.86-.84v-.09l-.26-3.74h8.68l-1.43,1.54a.42.42,0,0,0-.1.45.51.51,0,0,0,.36.34.46.46,0,0,0,.44-.13l2.17-2.33A.47.47,0,0,0,2600.07,911.2Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M2414.2,799.16l1.66,23.77h8l-1.74-24.82h-7A1,1,0,0,0,2414.2,799.16Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M2434,822.93l-1.66-23.77a1.16,1.16,0,0,0-1.13-1h-7L2426,823Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M2437.25,786.93h-29.67a2.9,2.9,0,0,0-3,2.85c0,.1,0,.21,0,.31l2.07,29.64a3.43,3.43,0,0,0,3.39,3.16h3.65l-1.66-23.77a2.91,2.91,0,0,1,2.67-3.15H2431a3.46,3.46,0,0,1,3.38,3.16l1.66,23.77h3.66a2.92,2.92,0,0,0,2.95-2.89c0-.09,0-.18,0-.27l-2.07-29.68A3.48,3.48,0,0,0,2437.25,786.93Zm-12.12,6.68h-4.5a1.14,1.14,0,0,1-1.13-1,1,1,0,0,1,.93-1.06H2425a1.15,1.15,0,0,1,1.12,1.06A1,1,0,0,1,2425.13,793.61Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M2380.26,51.55h-5.6a.44.44,0,0,0-.44.43.06.06,0,0,0,0,0l.23,3.71a.44.44,0,0,1-.39.47H2368a.44.44,0,0,0-.45.42.06.06,0,0,0,0,0l.27,3.74a.44.44,0,0,1-.42.46h-5.62a.44.44,0,0,0-.44.43.06.06,0,0,0,0,0l.26,3.73a.44.44,0,0,1-.39.47H2356a.88.88,0,0,0-.88.87.13.13,0,0,0,0,.06l.2,2.8a1,1,0,0,0,1,.93h25.2a.86.86,0,0,0,.86-.84v-.09l-1.17-16.8A1,1,0,0,0,2380.26,51.55Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M2381.19,45.31h0l-.11-.16-2.5-2.33a.45.45,0,0,0-.65.63l0,0,1.64,1.54h-8.67a.86.86,0,0,0-.88.85.22.22,0,0,0,0,.08l.26,3.73h-5.6a.88.88,0,0,0-.88.87.17.17,0,0,0,0,.07l.27,3.73h-5.6a.86.86,0,0,0-.88.85.22.22,0,0,0,0,.08l.19,2.8h-3.26a.45.45,0,0,0-.45.44v0a.5.5,0,0,0,.5.47h3.27a.87.87,0,0,0,.87-.87v-.07l-.2-2.8h5.6a.86.86,0,0,0,.87-.85v-.08l-.26-3.73h5.6a.86.86,0,0,0,.86-.86v-.08L2371,46h8.68l-1.43,1.54a.42.42,0,0,0-.1.45.5.5,0,0,0,.36.33.43.43,0,0,0,.44-.12l2.17-2.34A.46.46,0,0,0,2381.19,45.31Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+    </g>
+  </g>
+  <g>
+    <g id="Фундамент-3" data-name="Фундамент">
+      <g id="Проход_к_актовому" data-name="Проход к актовому">
+        <g>
+          <polygon points="1687.37 864.8 1686.12 866.1 950.5 866.1 951.75 864.8 1687.37 864.8" style="fill: #818a61"/>
+          <polygon points="951.75 864.8 950.5 866.1 942.85 755.73 944.1 754.44 951.75 864.8" style="fill: #818a61"/>
+          <polygon points="1679.71 754.44 1687.37 864.8 951.75 864.8 944.1 754.44 1679.71 754.44" style="fill: #cfdb98"/>
+        </g>
+      </g>
+      <g id="Холл">
+        <g>
+          <polygon points="1753.73 1093.37 1752.48 1094.66 919.39 1094.66 920.64 1093.37 1753.73 1093.37" style="fill: #818a61"/>
+          <polygon points="920.64 1093.37 919.39 1094.66 901.12 831.22 902.37 829.92 920.64 1093.37" style="fill: #818a61"/>
+          <polygon points="1735.46 829.92 1753.73 1093.37 920.64 1093.37 902.37 829.92 1735.46 829.92" style="fill: #cfdb98"/>
+        </g>
+      </g>
+      <g id="Выступ">
+        <g>
+          <polygon points="1575.74 1164.37 1574.49 1165.66 1113.84 1165.66 1115.09 1164.37 1575.74 1164.37" style="fill: #818a61"/>
+          <polygon points="1115.09 1164.37 1113.84 1165.66 1106.96 1066.46 1108.21 1065.17 1115.09 1164.37" style="fill: #818a61"/>
+          <polygon points="1568.86 1065.17 1575.74 1164.37 1115.09 1164.37 1108.21 1065.17 1568.86 1065.17" style="fill: #cfdb98"/>
+        </g>
+      </g>
+      <g id="Заплатка">
+        <polygon points="1135.28 1036.31 1139.23 1093.37 1085.79 1093.37 1081.84 1036.31 1135.28 1036.31" style="fill: #cfdb98"/>
+      </g>
+    </g>
+    <g id="Аудитории-3" data-name="Аудитории">
+      <g id="MLOC-rooms-B">
+        <g id="room-247">
+          <g>
+            <polygon points="1736.67 928.98 1730.42 935.45 1689.23 935.45 1695.48 928.98 1736.67 928.98" style="fill: #7a7a75"/>
+            <polygon points="1695.48 928.98 1689.23 935.45 1682.87 843.66 1689.12 837.19 1695.48 928.98" style="fill: #7a7a75"/>
+            <polygon points="1730.3 837.19 1736.67 928.98 1695.48 928.98 1689.12 837.19 1730.3 837.19" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-246_" data-name="room-246 ">
+          <g>
+            <polygon points="1747.31 1071.97 1741.06 1078.44 1562.31 1078.44 1568.56 1071.97 1747.31 1071.97" style="fill: #7a7a75"/>
+            <polygon points="1568.56 1071.97 1562.31 1078.44 1555.94 986.63 1562.19 980.16 1568.56 1071.97" style="fill: #7a7a75"/>
+            <polygon points="1740.95 980.16 1747.31 1071.97 1568.56 1071.97 1562.19 980.16 1740.95 980.16" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-243">
+          <g>
+            <polygon points="1564.03 1151.55 1557.78 1158.02 1514.25 1158.02 1520.5 1151.55 1564.03 1151.55" style="fill: #7a7a75"/>
+            <polygon points="1520.5 1151.55 1514.25 1158.02 1505.95 1038.29 1512.2 1031.82 1520.5 1151.55" style="fill: #7a7a75"/>
+            <polygon points="1555.73 1031.82 1564.03 1151.55 1520.5 1151.55 1512.2 1031.82 1555.73 1031.82" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-242">
+          <g>
+            <polygon points="1555.24 1023.63 1548.99 1030.1 1505.47 1030.1 1511.72 1023.63 1555.24 1023.63" style="fill: #7a7a75"/>
+            <polygon points="1511.72 1023.63 1505.47 1030.1 1502.45 986.57 1508.7 980.1 1511.72 1023.63" style="fill: #7a7a75"/>
+            <polygon points="1552.23 980.1 1555.24 1023.63 1511.72 1023.63 1508.7 980.1 1552.23 980.1" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-240">
+          <g>
+            <polygon points="1173.24 1151.55 1166.99 1158.02 1123.46 1158.02 1129.71 1151.55 1173.24 1151.55" style="fill: #7a7a75"/>
+            <polygon points="1129.71 1151.55 1123.46 1158.02 1115.15 1038.29 1121.4 1031.82 1129.71 1151.55" style="fill: #7a7a75"/>
+            <polygon points="1164.93 1031.82 1173.24 1151.55 1129.71 1151.55 1121.4 1031.82 1164.93 1031.82" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-239">
+          <g>
+            <polygon points="1164.45 1023.63 1158.2 1030.1 1114.67 1030.1 1120.92 1023.63 1164.45 1023.63" style="fill: #7a7a75"/>
+            <polygon points="1120.92 1023.63 1114.67 1030.1 1111.65 986.57 1117.9 980.1 1120.92 1023.63" style="fill: #7a7a75"/>
+            <polygon points="1161.43 980.1 1164.45 1023.63 1120.92 1023.63 1117.9 980.1 1161.43 980.1" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-236">
+          <g>
+            <polygon points="1113.58 1072.96 1107.33 1079.43 928.58 1079.43 934.83 1072.96 1113.58 1072.96" style="fill: #7a7a75"/>
+            <polygon points="934.83 1072.96 928.58 1079.43 922.2 987.43 928.45 980.96 934.83 1072.96" style="fill: #7a7a75"/>
+            <polygon points="1107.19 980.96 1113.58 1072.96 934.83 1072.96 928.45 980.96 1107.19 980.96" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="elevator-245">
+          <g>
+            <polygon points="1685.36 928.98 1679.11 935.45 1590.02 935.45 1596.27 928.98 1685.36 928.98" style="fill: #3a702e"/>
+            <polygon points="1596.27 928.98 1590.02 935.45 1583.66 843.66 1589.91 837.19 1596.27 928.98" style="fill: #3a702e"/>
+            <polygon points="1679 837.19 1685.36 928.98 1596.27 928.98 1589.91 837.19 1679 837.19" style="fill: #5cad31"/>
+          </g>
+        </g>
+        <g id="elevator-237">
+          <g>
+            <polygon points="1065.03 929.72 1058.78 936.19 969.69 936.19 975.94 929.72 1065.03 929.72" style="fill: #3a702e"/>
+            <polygon points="975.94 929.72 969.69 936.19 963.27 843.67 969.52 837.2 975.94 929.72" style="fill: #3a702e"/>
+            <polygon points="1058.61 837.2 1065.03 929.72 975.94 929.72 969.52 837.2 1058.61 837.2" style="fill: #5cad31"/>
+          </g>
+        </g>
+        <g id="stairs-244">
+          <g>
+            <polygon points="1676.61 822.38 1670.36 828.85 1545.13 828.85 1551.38 822.38 1676.61 822.38" style="fill: #955f21"/>
+            <polygon points="1551.38 822.38 1545.13 828.85 1540.82 766.64 1547.07 760.16 1551.38 822.38" style="fill: #955f21"/>
+            <polygon points="1672.29 760.16 1676.61 822.38 1551.38 822.38 1547.07 760.16 1672.29 760.16" style="fill: #ed9337"/>
+          </g>
+        </g>
+        <g id="stairs-238">
+          <g>
+            <polygon points="1089.57 822.38 1083.32 828.85 962.76 828.85 969.01 822.38 1089.57 822.38" style="fill: #955f21"/>
+            <polygon points="969.01 822.38 962.76 828.85 958.44 766.64 964.69 760.16 969.01 822.38" style="fill: #955f21"/>
+            <polygon points="1085.25 760.16 1089.57 822.38 969.01 822.38 964.69 760.16 1085.25 760.16" style="fill: #ed9337"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Стены-2" data-name="Стены">
+      <g>
+        <polygon points="1532.57 823.65 1526.32 830.12 1100.35 830.12 1106.6 823.65 1532.57 823.65" style="fill: #7a7a75"/>
+        <polygon points="1106.6 823.65 1100.35 830.12 1100.22 828.19 1106.47 821.71 1106.6 823.65" style="fill: #7a7a75"/>
+        <polygon points="1532.43 821.71 1532.57 823.65 1106.6 823.65 1106.47 821.71 1532.43 821.71" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="961.52 839.11 955.27 845.58 905.1 845.58 911.34 839.11 961.52 839.11" style="fill: #7a7a75"/>
+        <polygon points="911.34 839.11 905.1 845.58 904.96 843.64 911.21 837.17 911.34 839.11" style="fill: #7a7a75"/>
+        <polygon points="961.39 837.17 961.52 839.11 911.34 839.11 911.21 837.17 961.39 837.17" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="1508.71 1151.77 1502.46 1158.25 1179.75 1158.25 1186 1151.77 1508.71 1151.77" style="fill: #7a7a75"/>
+        <polygon points="1186 1151.77 1179.75 1158.25 1179.62 1156.32 1185.87 1149.84 1186 1151.77" style="fill: #7a7a75"/>
+        <polygon points="1508.58 1149.84 1508.71 1151.77 1186 1151.77 1185.87 1149.84 1508.58 1149.84" style="fill: #bcb9b2"/>
+      </g>
+    </g>
+    <g id="Текст">
+      <text transform="matrix(1, 0, 0.07, 1, 1006.61, 1030.36)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">49</text>
+      <text transform="matrix(1, 0, 0.07, 1, 1702.41, 886.59)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">60</text>
+      <text transform="matrix(1, 0, 0.07, 1, 1643.29, 1030.36)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">59</text>
+      <path d="M1098.39,902.34l1.67,23.77h8l-1.73-24.82h-7A1,1,0,0,0,1098.39,902.34Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1118.2,926.1l-1.68-23.76a1.13,1.13,0,0,0-1.12-1.05h-7l1.73,24.82Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1121.44,890.1h-29.67a2.92,2.92,0,0,0-3,2.89c0,.09,0,.18,0,.27l2.07,29.67a3.47,3.47,0,0,0,3.39,3.17H1098l-1.67-23.76a2.92,2.92,0,0,1,2.67-3.15h16.28a3.46,3.46,0,0,1,3.38,3.16l1.67,23.77h3.65a2.91,2.91,0,0,0,3-2.87,1.51,1.51,0,0,0,0-.3l-2.07-29.67A3.45,3.45,0,0,0,1121.44,890.1Zm-12.11,6.68h-4.5a1.14,1.14,0,0,1-1.13-1.06,1,1,0,0,1,1-1h4.5a1.14,1.14,0,0,1,1.13,1,1,1,0,0,1-.94,1.06Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1719.42,902.34l1.66,23.77h8l-1.73-24.82h-7A1,1,0,0,0,1719.42,902.34Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1739.22,926.1l-1.7-23.76a1.15,1.15,0,0,0-1.13-1.05h-7l1.73,24.82Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1742.52,890.1H1712.8a2.93,2.93,0,0,0-3,2.88c0,.09,0,.19,0,.28l2.08,29.67a3.46,3.46,0,0,0,3.38,3.17H1719l-1.66-23.76a2.92,2.92,0,0,1,2.67-3.15h16.27a3.45,3.45,0,0,1,3.39,3.16l1.66,23.77H1745a2.92,2.92,0,0,0,3-2.88,2.81,2.81,0,0,0,0-.29l-2.08-29.67A3.44,3.44,0,0,0,1742.52,890.1Zm-12.12,6.68h-4.5a1.16,1.16,0,0,1-1.13-1.06,1,1,0,0,1,1-1h4.5a1.14,1.14,0,0,1,1.13,1,1,1,0,0,1-.93,1.06h-.07Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1130.19,810h-5.6a.43.43,0,0,0-.43.43v0l.26,3.73a.41.41,0,0,1-.37.46h-6.13a.43.43,0,0,0-.43.43v0l.26,3.73a.42.42,0,0,1-.38.47h-5.66a.43.43,0,0,0-.43.43v0l.26,3.73a.42.42,0,0,1-.38.47H1106a.85.85,0,0,0-.86.84V825l.19,2.8a1,1,0,0,0,1,.93h25.22a.86.86,0,0,0,.88-.85.25.25,0,0,0,0-.08l-1.18-16.8A1,1,0,0,0,1130.19,810Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1131.12,803.77h0a.72.72,0,0,0-.11-.15l-2.49-2.28a.46.46,0,0,0-.65,0,.47.47,0,0,0,0,.66l1.65,1.49h-8.67a.86.86,0,0,0-.87.85v.08l.26,3.73h-5.6a.86.86,0,0,0-.86.86v.08l.26,3.73h-5.6a.86.86,0,0,0-.87.85v.08l.2,2.8h-3.25a.43.43,0,0,0-.43.43v0a.49.49,0,0,0,.49.46h3.27a.86.86,0,0,0,.88-.83.38.38,0,0,0,0-.1l-.2-2.8h5.6a.86.86,0,0,0,.88-.85.25.25,0,0,0,0-.08l-.26-3.73h5.6a.89.89,0,0,0,.88-.87.17.17,0,0,0,0-.07l-.26-3.73h8.67l-1.43,1.54a.46.46,0,0,0-.1.45.54.54,0,0,0,.36.33.44.44,0,0,0,.45-.12l2.17-2.34A.44.44,0,0,0,1131.12,803.77Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1715.08,809.58h-5.56a.44.44,0,0,0-.44.44v0l.26,3.73a.42.42,0,0,1-.38.47h-6.12a.43.43,0,0,0-.43.43v0l.26,3.73a.41.41,0,0,1-.37.46h-5.66a.44.44,0,0,0-.44.44v0l.27,3.73a.44.44,0,0,1-.41.47h-5.16a.86.86,0,0,0-.87.85v.08l.2,2.8a1,1,0,0,0,1,.94h25.2a.86.86,0,0,0,.88-.85.28.28,0,0,0,0-.09l-1.17-16.79A1,1,0,0,0,1715.08,809.58Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M1716,803.34h0a.33.33,0,0,0-.11-.15l-2.49-2.34a.49.49,0,0,0-.66,0,.48.48,0,0,0,0,.65l1.65,1.54h-8.68a.85.85,0,0,0-.86.84V804l.26,3.74h-5.59a.85.85,0,0,0-.87.83v.1l.26,3.73h-5.6a.87.87,0,0,0-.79.94v0l.2,2.8h-3.27a.42.42,0,0,0-.43.41v.05a.51.51,0,0,0,.5.47h3.26a.86.86,0,0,0,.88-.85.25.25,0,0,0,0-.08l-.19-2.8h5.6a.87.87,0,0,0,.87-.86.25.25,0,0,0,0-.08l-.26-3.73h5.6a.86.86,0,0,0,.88-.85.25.25,0,0,0,0-.08l-.26-3.74h8.65l-1.43,1.54a.44.44,0,0,0-.09.45.56.56,0,0,0,.35.34.46.46,0,0,0,.45-.13l2.17-2.33A.44.44,0,0,0,1716,803.34Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+    </g>
+  </g>
+  <g>
+    <g id="Фундамент-4" data-name="Фундамент">
+      <g id="Горизонтальный">
+        <g>
+          <polygon points="924.2 1093.39 922.95 1094.69 260.79 1094.69 262.04 1093.39 924.2 1093.39" style="fill: #818a61"/>
+          <polygon points="262.04 1093.39 260.79 1094.69 242.52 831.14 243.77 829.85 262.04 1093.39" style="fill: #818a61"/>
+          <polygon points="905.92 829.85 924.2 1093.39 262.04 1093.39 243.77 829.85 905.92 829.85" style="fill: #cfdb98"/>
+        </g>
+      </g>
+      <g id="Вертикальный">
+        <g>
+          <g style="clip-path: url(#clip-path-10)">
+            <path d="M92.29,110.39,91,111.68a9,9,0,0,1,2.43-6.94l1.25-1.29a9,9,0,0,0-2.47,7" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+          </g>
+          <polygon points="67.15 1035.82 65.9 1037.12 0 86.97 1.25 85.68 67.15 1035.82" style="fill: #818a61"/>
+          <polygon points="350.23 1035.82 348.98 1037.12 65.9 1037.12 67.15 1035.82 350.23 1035.82" style="fill: #818a61"/>
+          <path d="M365,100.74a10.52,10.52,0,0,1,10.29,9.65l65.89,950.14h-283L92.29,110.39a8.9,8.9,0,0,1,8.11-9.62c.3,0,.59,0,.89,0Z" transform="translate(-90.99 -24.71)" style="fill: #cfdb98"/>
+        </g>
+      </g>
+      <g id="Под_30-2" data-name="Под 30">
+        <g>
+          <g style="clip-path: url(#clip-path-11)">
+            <path d="M373.29,1139.74l-.5.52a9,9,0,0,1-6.52,2.71l.5-.52a9,9,0,0,0,6.52-2.71" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+          </g>
+          <g style="clip-path: url(#clip-path-12)">
+            <path d="M106.81,1010.12l-.5.52a9,9,0,0,1,2.46-6.9l.5-.52a9,9,0,0,0-2.46,7" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+          </g>
+          <polygon points="275.73 1117.78 275.23 1118.3 34.15 1118.3 34.65 1117.78 275.73 1117.78" style="fill: #818a61"/>
+          <polygon points="24.32 1108.12 23.82 1108.64 15.31 985.93 15.81 985.41 24.32 1108.12" style="fill: #818a61"/>
+          <g style="clip-path: url(#clip-path-13)">
+            <path d="M125.64,1142.48l-.5.52a10.5,10.5,0,0,1-10.32-9.66l.5-.51a10.49,10.49,0,0,0,10.32,9.65" transform="translate(-90.99 -24.71)" style="fill: #858e64"/>
+          </g>
+          <path d="M356.88,1000.46a10.52,10.52,0,0,1,10.33,9.66l8.51,122.71a8.9,8.9,0,0,1-8.1,9.62,6.77,6.77,0,0,1-.9,0H125.64a10.5,10.5,0,0,1-10.35-9.65l-8.48-122.71a8.89,8.89,0,0,1,8.08-9.63c.31,0,.61,0,.92,0Z" transform="translate(-90.99 -24.71)" style="fill: #cfdb98"/>
+        </g>
+      </g>
+      <g id="Заплатка-2" data-name="Заплатка">
+        <polygon points="363.93 978.79 369.33 1056.57 253.12 1056.57 247.72 978.79 363.93 978.79" style="fill: #cfdb98"/>
+      </g>
+    </g>
+    <g id="Аудитории-4" data-name="Аудитории">
+      <g id="MLOC-rooms-A-1-row">
+        <g id="room-233">
+          <g>
+            <polygon points="919.93 1072.89 913.68 1079.36 814.25 1079.36 820.5 1072.89 919.93 1072.89" style="fill: #7a7a75"/>
+            <polygon points="820.5 1072.89 814.25 1079.36 807.88 987.55 814.13 981.08 820.5 1072.89" style="fill: #7a7a75"/>
+            <polygon points="913.57 981.08 919.93 1072.89 820.5 1072.89 814.13 981.08 913.57 981.08" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-232">
+          <g>
+            <polygon points="808.39 1072.89 802.14 1079.36 749.02 1079.36 755.27 1072.89 808.39 1072.89" style="fill: #7a7a75"/>
+            <polygon points="755.27 1072.89 749.02 1079.36 742.65 987.55 748.9 981.08 755.27 1072.89" style="fill: #7a7a75"/>
+            <polygon points="802.03 981.08 808.39 1072.89 755.27 1072.89 748.9 981.08 802.03 981.08" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-230">
+          <g>
+            <polygon points="743.5 1072.36 737.25 1078.83 656.82 1078.83 663.07 1072.36 743.5 1072.36" style="fill: #7a7a75"/>
+            <polygon points="663.07 1072.36 656.82 1078.83 650.45 987.02 656.7 980.55 663.07 1072.36" style="fill: #7a7a75"/>
+            <polygon points="737.13 980.55 743.5 1072.36 663.07 1072.36 656.7 980.55 737.13 980.55" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-227">
+          <g>
+            <polygon points="650.28 1072.89 644.03 1079.36 533.12 1079.36 539.37 1072.89 650.28 1072.89" style="fill: #7a7a75"/>
+            <polygon points="539.37 1072.89 533.12 1079.36 526.75 987.55 533 981.08 539.37 1072.89" style="fill: #7a7a75"/>
+            <polygon points="643.91 981.08 650.28 1072.89 539.37 1072.89 533 981.08 643.91 981.08" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-225">
+          <g>
+            <polygon points="525.17 1072.89 518.92 1079.36 358.71 1079.36 364.96 1072.89 525.17 1072.89" style="fill: #7a7a75"/>
+            <polygon points="364.96 1072.89 358.71 1079.36 352.35 987.55 358.6 981.08 364.96 1072.89" style="fill: #7a7a75"/>
+            <polygon points="518.81 981.08 525.17 1072.89 364.96 1072.89 358.6 981.08 518.81 981.08" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-224">
+          <g>
+            <polygon points="351.79 1072.89 345.54 1079.36 292.42 1079.36 298.67 1072.89 351.79 1072.89" style="fill: #7a7a75"/>
+            <polygon points="298.67 1072.89 292.42 1079.36 286.05 987.55 292.3 981.08 298.67 1072.89" style="fill: #7a7a75"/>
+            <polygon points="345.42 981.08 351.79 1072.89 298.67 1072.89 292.3 981.08 345.42 981.08" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-223">
+          <g>
+            <g style="clip-path: url(#clip-path-14)">
+              <path d="M369.37,1119.67l-6.25,6.47a9,9,0,0,1-6.52,2.71l6.25-6.47a9,9,0,0,0,6.52-2.71" transform="translate(-90.99 -24.71)" style="fill: #7d7d77"/>
+            </g>
+            <g style="clip-path: url(#clip-path-15)">
+              <path d="M127.2,1015.88l-6.25,6.48a9,9,0,0,1,2.47-7l6.25-6.47a9,9,0,0,0-2.47,7" transform="translate(-90.99 -24.71)" style="fill: #7d7d77"/>
+            </g>
+            <polygon points="271.85 1097.67 265.6 1104.14 47 1104.14 53.25 1097.67 271.85 1097.67" style="fill: #7a7a75"/>
+            <polygon points="42.92 1088.01 36.67 1094.48 29.96 997.65 36.21 991.18 42.92 1088.01" style="fill: #7a7a75"/>
+            <g style="clip-path: url(#clip-path-16)">
+              <path d="M144.29,1122.38l-6.25,6.47a10.52,10.52,0,0,1-10.33-9.66l6.25-6.47a10.52,10.52,0,0,0,10.33,9.66" transform="translate(-90.99 -24.71)" style="fill: #7d7d77"/>
+            </g>
+            <path d="M364.45,1006.22l7.39,106.5a8.9,8.9,0,0,1-8.11,9.63,6.62,6.62,0,0,1-.89,0H144.29a10.51,10.51,0,0,1-10.37-9.64l-6.72-96.84a8.9,8.9,0,0,1,8.1-9.63l.9,0Z" transform="translate(-90.99 -24.71)" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+      </g>
+      <g id="MLOC-rooms-A-2-row">
+        <g id="room-234">
+          <g>
+            <polygon points="909.55 929.29 903.7 935.76 801.83 935.76 807.67 929.29 909.55 929.29" style="fill: #7a7a75"/>
+            <polygon points="807.67 929.29 801.83 935.76 795.88 843.95 801.72 837.48 807.67 929.29" style="fill: #7a7a75"/>
+            <polygon points="903.59 837.48 909.55 929.29 807.67 929.29 801.72 837.48 903.59 837.48" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-231">
+          <g>
+            <polygon points="794.93 929.29 789.09 935.76 687.21 935.76 693.05 929.29 794.93 929.29" style="fill: #7a7a75"/>
+            <polygon points="693.05 929.29 687.21 935.76 681.26 843.95 687.1 837.48 693.05 929.29" style="fill: #7a7a75"/>
+            <polygon points="788.98 837.48 794.93 929.29 693.05 929.29 687.1 837.48 788.98 837.48" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-229">
+          <g>
+            <polygon points="680.31 929.29 674.47 935.76 572.59 935.76 578.43 929.29 680.31 929.29" style="fill: #7a7a75"/>
+            <polygon points="578.43 929.29 572.59 935.76 566.64 843.95 572.48 837.48 578.43 929.29" style="fill: #7a7a75"/>
+            <polygon points="674.36 837.48 680.31 929.29 578.43 929.29 572.48 837.48 674.36 837.48" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-228">
+          <g>
+            <polygon points="565.7 929.6 559.86 936.07 457.97 936.07 463.81 929.6 565.7 929.6" style="fill: #7a7a75"/>
+            <polygon points="463.81 929.6 457.97 936.07 452.02 844.26 457.86 837.79 463.81 929.6" style="fill: #7a7a75"/>
+            <polygon points="559.75 837.79 565.7 929.6 463.81 929.6 457.86 837.79 559.75 837.79" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-226">
+          <g>
+            <polygon points="451.08 929.63 445.24 936.1 343.36 936.1 349.2 929.63 451.08 929.63" style="fill: #7a7a75"/>
+            <polygon points="349.2 929.63 343.36 936.1 337.41 844.29 343.25 837.82 349.2 929.63" style="fill: #7a7a75"/>
+            <polygon points="445.13 837.82 451.08 929.63 349.2 929.63 343.25 837.82 445.13 837.82" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="toilet-217">
+          <g>
+            <polygon points="335.58 929.47 329.33 935.94 234.75 935.94 241 929.47 335.58 929.47" style="fill: #3b7b90"/>
+            <polygon points="241 929.47 234.75 935.94 228.38 844.13 234.63 837.66 241 929.47" style="fill: #3b7b90"/>
+            <polygon points="329.22 837.66 335.58 929.47 241 929.47 234.63 837.66 329.22 837.66" style="fill: #5abfe6"/>
+          </g>
+        </g>
+      </g>
+      <g id="MLOC-rooms-A-2-col">
+        <g id="elevator-215">
+          <g>
+            <polygon points="327.62 823.14 321.37 829.61 226.79 829.61 233.04 823.14 327.62 823.14" style="fill: #3a702e"/>
+            <polygon points="233.04 823.14 226.79 829.61 221.01 746.35 227.26 739.88 233.04 823.14" style="fill: #3a702e"/>
+            <polygon points="321.85 739.88 327.62 823.14 233.04 823.14 227.26 739.88 321.85 739.88" style="fill: #5cad31"/>
+          </g>
+        </g>
+        <g id="room-213">
+          <g>
+            <polygon points="320.69 725.84 314.44 732.31 219.86 732.31 226.11 725.84 320.69 725.84" style="fill: #7a7a75"/>
+            <polygon points="226.11 725.84 219.86 732.31 215.43 668.41 221.68 661.94 226.11 725.84" style="fill: #7a7a75"/>
+            <polygon points="316.26 661.94 320.69 725.84 226.11 725.84 221.68 661.94 316.26 661.94" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-210">
+          <g>
+            <polygon points="314.49 646.55 308.24 653.02 213.65 653.02 219.9 646.55 314.49 646.55" style="fill: #7a7a75"/>
+            <polygon points="219.9 646.55 213.65 653.02 202.61 493.77 208.86 487.3 219.9 646.55" style="fill: #7a7a75"/>
+            <polygon points="303.44 487.3 314.49 646.55 219.9 646.55 208.86 487.3 303.44 487.3" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-208">
+          <g>
+            <polygon points="302.55 470.95 296.3 477.42 201.72 477.42 207.97 470.95 302.55 470.95" style="fill: #7a7a75"/>
+            <polygon points="207.97 470.95 201.72 477.42 193.52 359.13 199.77 352.66 207.97 470.95" style="fill: #7a7a75"/>
+            <polygon points="294.35 352.66 302.55 470.95 207.97 470.95 199.77 352.66 294.35 352.66" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-205">
+          <g>
+            <polygon points="293.64 335.85 287.39 342.32 192.8 342.32 199.05 335.85 293.64 335.85" style="fill: #7a7a75"/>
+            <polygon points="199.05 335.85 192.8 342.32 179.92 156.5 186.17 150.03 199.05 335.85" style="fill: #7a7a75"/>
+            <polygon points="280.75 150.03 293.64 335.85 199.05 335.85 186.17 150.03 280.75 150.03" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-202">
+          <g>
+            <polygon points="280.29 137.32 274.04 143.79 179.45 143.79 185.7 137.32 280.29 137.32" style="fill: #7a7a75"/>
+            <polygon points="185.7 137.32 179.45 143.79 175.73 90.18 181.98 83.71 185.7 137.32" style="fill: #7a7a75"/>
+            <path d="M357.9,108.42a10.52,10.52,0,0,1,10.33,9.66l3,44H276.69L273,108.47Z" transform="translate(-90.99 -24.71)" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+      </g>
+      <g id="MLOC-rooms-A-1-col">
+        <g id="stairs-221">
+          <g>
+            <polygon points="174.89 930.03 168.64 936.5 74.04 936.5 80.29 930.03 174.89 930.03" style="fill: #955f21"/>
+            <polygon points="80.29 930.03 74.04 936.5 69.9 876.69 76.15 870.22 80.29 930.03" style="fill: #955f21"/>
+            <polygon points="170.74 870.22 174.89 930.03 80.29 930.03 76.15 870.22 170.74 870.22" style="fill: #ed9337"/>
+          </g>
+        </g>
+        <g id="room-214">
+          <g>
+            <polygon points="166.7 816.94 160.45 823.42 65.86 823.42 72.11 816.94 166.7 816.94" style="fill: #7a7a75"/>
+            <polygon points="72.11 816.94 65.86 823.42 59.3 728.83 65.55 722.36 72.11 816.94" style="fill: #7a7a75"/>
+            <polygon points="160.15 722.36 166.7 816.94 72.11 816.94 65.55 722.36 160.15 722.36" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-212">
+          <g>
+            <polygon points="158.9 709 152.65 715.47 58.07 715.47 64.32 709 158.9 709" style="fill: #7a7a75"/>
+            <polygon points="64.32 709 58.07 715.47 54.32 661.45 60.57 654.98 64.32 709" style="fill: #7a7a75"/>
+            <polygon points="155.15 654.98 158.9 709 64.32 709 60.57 654.98 155.15 654.98" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-211">
+          <g>
+            <polygon points="153.98 640.58 147.73 647.05 53.14 647.05 59.39 640.58 153.98 640.58" style="fill: #7a7a75"/>
+            <polygon points="59.39 640.58 53.14 647.05 42.47 493.11 48.72 486.64 59.39 640.58" style="fill: #7a7a75"/>
+            <polygon points="143.3 486.64 153.98 640.58 59.39 640.58 48.72 486.64 143.3 486.64" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-207">
+          <g>
+            <polygon points="142.23 472.16 135.98 478.63 41.39 478.63 47.64 472.16 142.23 472.16" style="fill: #7a7a75"/>
+            <polygon points="47.64 472.16 41.39 478.63 37.41 421.23 43.66 414.76 47.64 472.16" style="fill: #7a7a75"/>
+            <polygon points="138.25 414.76 142.23 472.16 47.64 472.16 43.66 414.76 138.25 414.76" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-206">
+          <g>
+            <polygon points="136.71 402.06 130.46 408.53 35.87 408.53 42.12 402.06 136.71 402.06" style="fill: #7a7a75"/>
+            <polygon points="42.12 402.06 35.87 408.53 32.16 354.92 38.41 348.45 42.12 402.06" style="fill: #7a7a75"/>
+            <polygon points="132.99 348.45 136.71 402.06 42.12 402.06 38.41 348.45 132.99 348.45" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="room-204">
+          <g>
+            <polygon points="131.53 334.69 125.28 341.16 30.7 341.16 36.95 334.69 131.53 334.69" style="fill: #7a7a75"/>
+            <polygon points="36.95 334.69 30.7 341.16 22.55 223.64 28.8 217.17 36.95 334.69" style="fill: #7a7a75"/>
+            <polygon points="123.38 217.17 131.53 334.69 36.95 334.69 28.8 217.17 123.38 217.17" style="fill: #bcb9b2"/>
+          </g>
+        </g>
+        <g id="stairs-201">
+          <g>
+            <g style="clip-path: url(#clip-path-17)">
+              <path d="M111.57,118.08l-6.28,6.47a9,9,0,0,1,2.47-7l6.25-6.47a9,9,0,0,0-2.47,7" transform="translate(-90.99 -24.71)" style="fill: #996222"/>
+            </g>
+            <polygon points="23.63 137.32 17.38 143.79 14.33 99.84 20.58 93.37 23.63 137.32" style="fill: #955f21"/>
+            <polygon points="118.21 137.32 111.96 143.79 17.38 143.79 23.63 137.32 118.21 137.32" style="fill: #955f21"/>
+            <path d="M205.49,108.42,209.21,162H114.62l-3-43.95a8.91,8.91,0,0,1,8.12-9.63l.88,0Z" transform="translate(-90.99 -24.71)" style="fill: #ed9337"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Стены-3" data-name="Стены">
+      <g>
+        <polygon points="85.29 972.03 79.04 978.51 77.11 978.51 83.36 972.03 85.29 972.03" style="fill: #7a7a75"/>
+        <polygon points="83.36 972.03 77.11 978.51 74.76 944.7 81.01 938.23 83.36 972.03" style="fill: #7a7a75"/>
+        <polygon points="82.94 938.23 85.29 972.03 83.36 972.03 81.01 938.23 82.94 938.23" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="30.2 208.76 23.95 215.23 22.02 215.23 28.27 208.76 30.2 208.76" style="fill: #7a7a75"/>
+        <polygon points="28.27 208.76 22.02 215.23 17.78 153.98 24.03 147.51 28.27 208.76" style="fill: #7a7a75"/>
+        <polygon points="25.95 147.51 30.2 208.76 28.27 208.76 24.03 147.51 25.95 147.51" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="168.37 85.78 162.12 92.25 121.17 92.25 127.42 85.78 168.37 85.78" style="fill: #7a7a75"/>
+        <polygon points="127.42 85.78 121.17 92.25 121.03 90.27 127.28 83.8 127.42 85.78" style="fill: #7a7a75"/>
+        <polygon points="168.23 83.8 168.37 85.78 127.42 85.78 127.28 83.8 168.23 83.8" style="fill: #bcb9b2"/>
+      </g>
+      <g>
+        <polygon points="77.04 862.94 70.79 869.41 69.34 869.41 75.59 862.94 77.04 862.94" style="fill: #7a7a75"/>
+        <polygon points="75.59 862.94 69.34 869.41 66.67 830.77 72.92 824.29 75.59 862.94" style="fill: #7a7a75"/>
+        <polygon points="74.36 824.29 77.04 862.94 75.59 862.94 72.92 824.29 74.36 824.29" style="fill: #bcb9b2"/>
+      </g>
+    </g>
+    <g id="Текст-2" data-name="Текст">
+      <text transform="matrix(1, 0, 0.07, 1, 135.82, 1031.7)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">223</text>
+      <text transform="matrix(1, 0, 0.07, 1, 378.82, 886.78)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">226</text>
+      <text transform="matrix(1, 0, 0.07, 1, 305.77, 1030.2)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">224</text>
+      <text transform="matrix(1, 0, 0.07, 1, 423.55, 1030.2)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">225</text>
+      <text transform="matrix(1, 0, 0.07, 1, 576.13, 1030.2)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">227</text>
+      <text transform="matrix(1, 0, 0.07, 1, 685.02, 1029.3)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">230</text>
+      <text transform="matrix(1, 0, 0.07, 1, 762.35, 1030.2)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">232</text>
+      <text transform="matrix(1, 0, 0.07, 1, 849.13, 1030.2)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">233</text>
+      <text transform="matrix(1, 0, 0.07, 1, 494.21, 886.93)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">228</text>
+      <text transform="matrix(1, 0, 0.07, 1, 607.88, 886.93)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">229</text>
+      <text transform="matrix(1, 0, 0.07, 1, 724.59, 886.93)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">231</text>
+      <text transform="matrix(1, 0, 0.07, 1, 841.42, 886.78)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">234</text>
+      <text transform="matrix(1, 0, 0.07, 1, 99.26, 776.32)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">214</text>
+      <text transform="matrix(1, 0, 0.07, 1, 92.02, 690.35)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">212</text>
+      <g style="isolation: isolate">
+        <text transform="matrix(1, 0, 0.07, 1, 84.01, 569.15)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">2</text>
+        <text transform="matrix(1, 0, 0.07, 1, 95.72, 569.15)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700;letter-spacing: -0.05901121767300253em">1</text>
+        <text transform="matrix(1, 0, 0.07, 1, 106.26, 569.15)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">1</text>
+      </g>
+      <text transform="matrix(1, 0, 0.07, 1, 75.72, 453.75)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">207</text>
+      <text transform="matrix(1, 0, 0.07, 1, 69.04, 382.94)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">206</text>
+      <text transform="matrix(1, 0, 0.07, 1, 63.91, 281.28)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">204</text>
+      <text transform="matrix(1, 0, 0.07, 1, 213.2, 117.76)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">202</text>
+      <text transform="matrix(1, 0, 0.07, 1, 222.13, 246.44)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">205</text>
+      <text transform="matrix(1, 0, 0.07, 1, 234.82, 416.96)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">208</text>
+      <text transform="matrix(1, 0, 0.07, 1, 245.07, 569.32)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">210</text>
+      <text transform="matrix(1, 0, 0.07, 1, 256.15, 699.75)" style="isolation: isolate;font-size: 21.10150909423828px;fill: #1e1e1c;font-family: Arial-BoldMT, Arial;font-weight: 700">213</text>
+    </g>
+    <g id="Иконки-3" data-name="Иконки">
+      <g id="Туалет-2" data-name="Туалет">
+        <path d="M365.55,903.53a5.31,5.31,0,0,1-5.22-4.88,4.49,4.49,0,0,1,4.09-4.87l.45,0a5.32,5.32,0,0,1,5.22,4.89,4.51,4.51,0,0,1-4.11,4.87Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M366.8,921.41a1.08,1.08,0,0,1-1-.63l-6.27-13.84a1,1,0,0,1,0-.92.93.93,0,0,1,.79-.43h10.61a1.08,1.08,0,0,1,.84.43,1,1,0,0,1,.18.92l-4.27,13.8A.91.91,0,0,1,366.8,921.41Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M386.52,903.53a5.31,5.31,0,0,1-5.22-4.88,4.49,4.49,0,0,1,4.09-4.87l.45,0a5.32,5.32,0,0,1,5.22,4.89,4.5,4.5,0,0,1-4.09,4.87Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M393.08,921.41H382.47a1.09,1.09,0,0,1-.85-.42,1,1,0,0,1-.17-.92l4.34-13.84a.88.88,0,0,1,.88-.64,1.08,1.08,0,0,1,1,.64l6.27,13.84a1,1,0,0,1,0,.92A.93.93,0,0,1,393.08,921.41Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+        <path d="M377.29,921.41a1.08,1.08,0,0,1-1.06-1l-1.8-25.67a.91.91,0,0,1,.83-1h.09a1.08,1.08,0,0,1,1.06,1l1.8,25.66a.93.93,0,0,1-.81,1Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      </g>
+      <path d="M227.72,919.44h-5.6a.43.43,0,0,0-.43.43v0l.26,3.73a.43.43,0,0,1-.39.47h-6.11a.43.43,0,0,0-.44.42v0l.27,3.74a.44.44,0,0,1-.42.46h-5.57a.43.43,0,0,0-.43.43v0l.26,3.73a.43.43,0,0,1-.39.47h-5.18a.87.87,0,0,0-.87.87v.06l.2,2.8a1,1,0,0,0,1,.93h25.2a.85.85,0,0,0,.86-.83v-.1l-1.17-16.8A1,1,0,0,0,227.72,919.44Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M228.65,913.19h0a.91.91,0,0,0-.11-.16L226,910.7a.45.45,0,1,0-.65.63l0,0,1.64,1.54H218.4a.86.86,0,0,0-.88.83.34.34,0,0,0,0,.1l.26,3.73h-5.6a.89.89,0,0,0-.88.87s0,.05,0,.07l.26,3.73H206a.86.86,0,0,0-.88.85s0,0,0,.08l.19,2.8h-3.26a.42.42,0,0,0-.44.42v0a.5.5,0,0,0,.5.47h3.27a.87.87,0,0,0,.87-.87V926l-.2-2.8h5.6a.86.86,0,0,0,.87-.85v-.08l-.26-3.73h5.6a.86.86,0,0,0,.86-.85v-.09l-.26-3.73h8.68l-1.43,1.54a.42.42,0,0,0-.1.45.52.52,0,0,0,.36.33.43.43,0,0,0,.44-.12l2.17-2.34A.46.46,0,0,0,228.65,913.19Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M359.18,800.1l1.66,23.77h8l-1.74-24.82h-7A1,1,0,0,0,359.18,800.1Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M379,823.87l-1.69-23.77a1.14,1.14,0,0,0-1.13-1.05h-7l1.74,24.82Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M382.23,787.87H352.56a2.92,2.92,0,0,0-2.95,2.89,2.44,2.44,0,0,0,0,.27l2.07,29.71a3.46,3.46,0,0,0,3.39,3.17h3.65l-1.66-23.77a2.91,2.91,0,0,1,2.67-3.15h16.33a3.46,3.46,0,0,1,3.38,3.16l1.66,23.77h3.66A2.91,2.91,0,0,0,387.7,821a2.72,2.72,0,0,0,0-.28l-2.07-29.67A3.46,3.46,0,0,0,382.23,787.87Zm-12.12,6.68h-4.5a1.14,1.14,0,0,1-1.12-1.06,1,1,0,0,1,1-1H370a1.17,1.17,0,0,1,1.13,1,1,1,0,0,1-.94,1.06Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M169.5,127.57h-5.6a.43.43,0,0,0-.44.42v0l.27,3.74a.44.44,0,0,1-.42.46h-6.08a.43.43,0,0,0-.44.42v0l.26,3.73a.43.43,0,0,1-.39.47H151a.42.42,0,0,0-.43.41v.05l.26,3.74a.43.43,0,0,1-.4.46h-5.16a.86.86,0,0,0-.88.85.28.28,0,0,0,0,.09l.2,2.8a1,1,0,0,0,1,.93h25.19a.86.86,0,0,0,.87-.85v-.08l-1.17-16.8A1,1,0,0,0,169.5,127.57Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+      <path d="M170.43,121.32h0a.44.44,0,0,0-.12-.15l-2.49-2.33a.47.47,0,0,0-.66.66l1.65,1.53h-8.67a.86.86,0,0,0-.88.85.28.28,0,0,0,0,.09l.26,3.73h-5.6a.86.86,0,0,0-.88.85s0,0,0,.08l.26,3.74h-5.6a.86.86,0,0,0-.88.85s0,.05,0,.08l.2,2.8h-3.27a.43.43,0,0,0-.43.43v0a.5.5,0,0,0,.5.46h3.27a.85.85,0,0,0,.86-.83v-.1l-.19-2.8h5.6a.87.87,0,0,0,.87-.87v-.06l-.27-3.74h5.6a.86.86,0,0,0,.87-.85v-.08l-.17-3.73H169l-1.43,1.53a.44.44,0,0,0-.09.46.48.48,0,0,0,.36.33.45.45,0,0,0,.44-.13l2.17-2.33A.49.49,0,0,0,170.43,121.32Z" transform="translate(-90.99 -24.71)" style="fill: #010202"/>
+    </g>
+  </g>
+</svg>
