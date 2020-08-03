@@ -83,7 +83,7 @@
 
             self.el.addClass('mapplic-element mapplic-loading');
 
-            // process map data
+            // process maps data
             var data = self.el.data('mapdata');
             if (self.el.data('mapdata')) {
                 self.el.removeAttr('data-mapdata');
@@ -96,7 +96,7 @@
                     processData(data);
                     self.el.removeClass('mapplic-loading');
                 }).fail(function() { // Failure: couldn't load JSON file or it is invalid.
-                    console.error('Couldn\'t load map data. (Make sure to run the script through web server)');
+                    console.error('Couldn\'t load maps data. (Make sure to run the script through web server)');
                     self.el.removeClass('mapplic-loading').addClass('mapplic-error');
                     alert('Data file missing or invalid!\nMake sure to run the script through web server.');
                 });
@@ -833,7 +833,7 @@
                     e.preventDefault();
                     self.showLocation(location.id, 600);
 
-                    // scroll back to map on mobile
+                    // scroll back to maps on mobile
                     if (($(window).width() < 668) && (location.action || self.o.action) != 'lightbox') {
                         $('html, body').animate({
                             scrollTop: self.container.el.offset().top
@@ -1177,7 +1177,7 @@
 
             this.revealChild = function(parent) {
                 $('.mapplic-pin[data-location^=' + parent.id + '-]', self.map).addClass('mapplic-revealed');
-                $('.mapplic-map-image [id^=' + parent.id + '-]', self.map).addClass('mapplic-revealed');
+                $('.mapplic-maps-image [id^=' + parent.id + '-]', self.map).addClass('mapplic-revealed');
             }
 
             this.revealZoom = function(zoom) {
@@ -1250,7 +1250,7 @@
                 }
 
                 // drag & drop
-                $('.mapplic-map-image', self.map).on('mousedown', function(e) {
+                $('.mapplic-maps-image', self.map).on('mousedown', function(e) {
                     self.dragging = false;
                     self.map.addClass('mapplic-dragging');
 
@@ -1280,7 +1280,7 @@
 
                 // mousewheel
                 if (self.o.mousewheel) {
-                    $('.mapplic-map-image', self.el).bind('mousewheel DOMMouseScroll', function(e, delta) {
+                    $('.mapplic-maps-image', self.el).bind('mousewheel DOMMouseScroll', function(e, delta) {
                         e.preventDefault();
                         s.stopMomentum();
 
@@ -1301,7 +1301,7 @@
                     initD = 0,
                     initScale = null;
 
-                $('.mapplic-map-image', self.map).on('touchstart', function(e) {
+                $('.mapplic-maps-image', self.map).on('touchstart', function(e) {
                     e.preventDefault();
                     var eo = e.originalEvent;
 
@@ -1465,7 +1465,7 @@
                     var source = level.map,
                         extension = source.substr((source.lastIndexOf('.') + 1)).toLowerCase();
 
-                    // new map layer
+                    // new maps layer
                     var layer = $('<div></div>').addClass('mapplic-layer').attr('data-floor', level.id).appendTo(self.map);
                     switch (extension) {
 
@@ -2088,7 +2088,7 @@
 
 })(jQuery);
 
-// call plugin on map instances
+// call plugin on maps instances
 jQuery(document).ready(function($) {
     $('[id^=mapplic-id]').mapplic();
 });

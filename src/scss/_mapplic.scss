@@ -39,8 +39,8 @@
 }
 
 /* Preloader & Error */
-.mapplic-element.mapplic-loading { background: url(images/loader.gif) no-repeat center; }
-.mapplic-element.mapplic-error { background: url(images/error-icon.png) no-repeat center; }
+.mapplic-element.mapplic-loading { background: url("../images/loader.gif") no-repeat center; }
+.mapplic-element.mapplic-error { background: url("../images/error-icon.png") no-repeat center; }
 
 /* Map container */
 .mapplic-container {
@@ -73,11 +73,11 @@
 /* IE Fix END */
 
 .mapplic-map.mapplic-zoomable .mapplic-map-image {
-    cursor: url(images/openhand.cur), default;
+    cursor: url("../images/openhand.cur"), default;
 }
 
 .mapplic-map.mapplic-zoomable.mapplic-dragging .mapplic-map-image {
-    cursor: url(images/closedhand.cur), move;
+    cursor: url("../images/closedhand.cur"), move;
 }
 
 /* Marker types */
@@ -682,7 +682,7 @@ button.mapplic-zoomout-button {
 }
 
 .mapplic-tag > span {
-    background-image: url(images/cross-light.svg);
+    background-image: url("../images/cross-light.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: 6px 6px;
