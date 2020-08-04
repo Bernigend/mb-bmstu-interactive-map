@@ -17,7 +17,6 @@ pages:
   script:
     - npm install
     - npm run prod-build
-    - mkdir public
     - ls -la
     - mv dist public
   artifacts:
