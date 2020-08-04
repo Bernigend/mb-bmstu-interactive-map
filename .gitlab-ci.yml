@@ -15,6 +15,7 @@ pages:
   before_script:
     - ls -la
   script:
+    - npm install
     - npm run prod-build
     - mkdir public
     - ls -la
