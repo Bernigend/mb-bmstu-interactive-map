@@ -19,7 +19,7 @@ pages:
     - npm run prod-build
     - mkdir public
     - ls -la
-    - cp dist public
+    - cp -r dist public
   artifacts:
     paths:
       - public
