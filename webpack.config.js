@@ -48,6 +48,15 @@ module.exports = (env, options) => {
                             }
                         },
                         {
+                            loader: 'postcss-loader',
+                            options: {
+                                plugins: [
+                                    require('autoprefixer')
+                                ],
+                                sourceMap: true
+                            }
+                        },
+                        {
                             loader: "sass-loader",
                             options: {
                                 sourceMap: true,
@@ -62,6 +71,10 @@ module.exports = (env, options) => {
                         outputPath: 'images',
                         name: '[name].[contenthash].[ext]'
                     }
+                },
+                {
+                    test: /\.html$/,
+                    loader: 'html-loader'
                 },
                 {
                     test: /\.(ttf|eot)(\?v=[0-9]\.[0-9]\.[0-9])?$/,

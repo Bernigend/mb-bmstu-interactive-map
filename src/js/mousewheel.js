@@ -6,19 +6,6 @@
  * http://jquery.org/license
  */
 
-// function mouseWheelInit (factory) {
-//     if ( typeof define === 'function' && define.amd ) {
-//         // AMD. Register as an anonymous module.
-//         define(['jquery'], factory);
-//     } else if (typeof exports === 'object') {
-//         // Node/CommonJS style for Browserify
-//         module.exports = factory;
-//     } else {
-//         // Browser globals
-//         factory(jQuery);
-//     }
-// }
-
 function factory ($) {
 
     var toFix  = ['wheel', 'mousewheel', 'DOMMouseScroll', 'MozMousePixelScroll'],
@@ -219,8 +206,6 @@ function factory ($) {
         // Turn this off by setting $.event.special.mousewheel.settings.adjustOldDeltas to false.
         return special.settings.adjustOldDeltas && orgEvent.type === 'mousewheel' && absDelta % 120 === 0;
     }
-
-    console.log("test")
 
 }
 
