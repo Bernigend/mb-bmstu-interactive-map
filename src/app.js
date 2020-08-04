@@ -8,6 +8,8 @@ mapplicInit($);
 
 $(document).ready(function() {
     const mapplicElement = $('#mapplic');
+    const mainHeader = $("#main-header");
+    const mainHeaderHeight = mainHeader.outerHeight(true) + 15;
 
     let map = mapplicElement.mapplic({
         source: './map/mb-bmstu-config.json',
@@ -34,7 +36,9 @@ $(document).ready(function() {
         console.log("Map is ready");
 
         $(".mapplic-search-input").attr("placeholder", "Поиск");
-    });
 
-    mapplicElement.css('padding-top', $("#main-header").outerHeight(true));
+        $('.mapplic-fullscreen-button').css('margin-top', mainHeaderHeight + 'px');
+        $('.mapplic-levels').css('margin-top', mainHeaderHeight + 'px');
+        $('.mapplic-sidebar').css('padding-top', mainHeaderHeight + 80 + 'px');
+    });
 });
