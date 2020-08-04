@@ -1,10 +1,16 @@
+#pages:
+#  stage: deploy
+#  script:
+#    - ls -la
+#    - ls -la public
+#  artifacts:
+#    paths:
+#      - public
+#  only:
+#    - master
+
 pages:
+  image: node:12.18
   stage: deploy
   script:
     - ls -la
-    - ls -la public
-  artifacts:
-    paths:
-      - public
-  only:
-    - master
