@@ -1,7 +1,10 @@
 const path = require('path');
 
+const Webpack = require('webpack');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
+
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = (env, options) => {
@@ -13,7 +16,7 @@ module.exports = (env, options) => {
             main: './src/app.js'
         },
         output: {
-            path: path.resolve(__dirname, 'public/dist'),
+            path: path.resolve(__dirname, 'dist'),
             filename: '[name].[chunkhash].js'
         },
         module: {
@@ -53,8 +56,20 @@ module.exports = (env, options) => {
                     ],
                 },
                 {
-                    test: /\.(ttf|eot|svg|png|jpg|gif|ico|cur)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
-                    loader: 'file-loader'
+                    test: /\.(svg|png|jpg|gif|ico|cur)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+                    loader: 'file-loader',
+                    options: {
+                        outputPath: 'images',
+                        name: '[name].[contenthash].[ext]'
+                    }
+                },
+                {
+                    test: /\.(ttf|eot)(\?v=[0-9]\.[0-9]\.[0-9])?$/,
+                    loader: 'file-loader',
+                    options: {
+                        outputPath: 'fonts',
+                        name: '[name].[contenthash].[ext]'
+                    }
                 }
             ]
         },
@@ -69,6 +84,12 @@ module.exports = (env, options) => {
                 minify: options.mode === 'production',
                 template: './src/html/index.html',
                 filename: 'index.html'
+            }),
+            new CopyWebpackPlugin({
+                patterns: [
+                    { from: './src/map', to: './map' },
+                    { from: './src/images/icons.svg', to: './mapplic/images/icons.svg' }
+                ]
             })
         ],
     }
