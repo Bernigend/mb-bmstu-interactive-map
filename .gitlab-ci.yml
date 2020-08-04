@@ -12,5 +12,15 @@
 pages:
   image: node:12.18
   stage: deploy
-  script:
+  before_script:
     - ls -la
+  script:
+    - npm run prod-build
+    - mkdir public
+    - ls -la
+    - cp dist public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
