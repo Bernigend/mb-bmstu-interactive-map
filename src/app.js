@@ -40,5 +40,7 @@ $(document).ready(function() {
         $('.mapplic-fullscreen-button').css('margin-top', mainHeaderHeight + 'px');
         $('.mapplic-levels').css('margin-top', mainHeaderHeight + 'px');
         $('.mapplic-sidebar').css('padding-top', mainHeaderHeight + 80 + 'px');
+
+        $('#loading-screen').delay(1000).fadeOut('slow');
     });
 });
