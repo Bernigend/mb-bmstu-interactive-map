@@ -1,0 +1,16 @@
+.logger {
+    position: absolute;
+    top: 0;
+    width: 100%;
+
+    background-color: rgba(121, 8, 8, .83);
+    color: #ffffff;
+
+    box-sizing: border-box;
+    z-index: 9999;
+
+    div {
+        padding: 0 .5rem;
+        margin: .5rem 0;
+    }
+}

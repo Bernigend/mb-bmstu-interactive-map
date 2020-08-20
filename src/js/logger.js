@@ -1,6 +1,6 @@
 const logger = {
     /**
-     * @var {jQuery.fn.init} outputHtml
+     * @type {jQuery.fn.init}
      */
     outputHtml: new jQuery(),
 
@@ -11,7 +11,9 @@ const logger = {
         this.outputHtml = outputHtml;
     },
 
-    /** @param {string} textToLog */
+    /**
+     * @param {string} textToLog
+     */
     log: function (textToLog) {
         console.log(textToLog);
         this.outputHtml.append(`<div>${textToLog}</div>`);

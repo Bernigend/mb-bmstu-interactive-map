@@ -13,13 +13,15 @@ mapplicInit($);
 
 // starting app
 $(document).ready(function() {
-    const mapplicElement = $('#mapplic');
-    const mainHeader = $("#main-header");
-    const mainHeaderHeight = mainHeader.outerHeight(true) + 15;
-
     // init logger
     logger.init($("#logger"));
+    logger.log("Environment: " + process.env.NODE_ENV)
 
+    const mapplicElement   = $('#mapplic');
+    const mainHeader       = $("#main-header");
+    const mainHeaderHeight = mainHeader.outerHeight(true) + 15;
+
+    // init mapplic
     const mapplicOptions = {
         source: './map/mb-bmstu-config.json',
         sidebar: true,
@@ -32,19 +34,17 @@ $(document).ready(function() {
         developer: false,
         maxscale: 2
     }
+    const map = mapplicElement.mapplic(mapplicOptions);
 
-    // init mapplic
-    let map = mapplicElement.mapplic(mapplicOptions);
-
-    map.on('mapstart', function(e, self) {
+    map.on('mapstart', function() {
         logger.log("The map started loading");
     });
 
-    map.on('svgloaded', function(e, self) {
+    map.on('svgloaded', function() {
         logger.log("One of the maps was loaded");
     });
 
-    map.on('mapready', function(e, self) {
+    map.on('mapready', function() {
         logger.log("Map is ready");
         logger.log("Max scale: " + mapplicOptions.maxscale);
 
