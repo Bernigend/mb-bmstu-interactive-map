@@ -1,17 +1,26 @@
+// importing styles
 import "./scss/main.scss";
 
-window.$ = window.jQuery = require('jquery');
+// importing log wrapper
+import { logger } from "./js/logger";
+
+// importing jquery-mousewheel plugin
 require('jquery-mousewheel');
 
+// importing mapplic jQuery plugin
 import { mapplicInit } from "./js/mapplic";
 mapplicInit($);
 
+// starting app
 $(document).ready(function() {
     const mapplicElement = $('#mapplic');
     const mainHeader = $("#main-header");
     const mainHeaderHeight = mainHeader.outerHeight(true) + 15;
 
-    let map = mapplicElement.mapplic({
+    // init logger
+    logger.init($("#logger"));
+
+    const mapplicOptions = {
         source: './map/mb-bmstu-config.json',
         sidebar: true,
         height: "100%",
@@ -21,19 +30,23 @@ $(document).ready(function() {
         marker: 'hidden',
         fullscreen: true,
         developer: false,
-        maxscale: 3
-    });
+        maxscale: 2
+    }
+
+    // init mapplic
+    let map = mapplicElement.mapplic(mapplicOptions);
 
     map.on('mapstart', function(e, self) {
-        console.log("The map started loading");
+        logger.log("The map started loading");
     });
 
     map.on('svgloaded', function(e, self) {
-        console.log("One of the maps was loaded");
+        logger.log("One of the maps was loaded");
     });
 
     map.on('mapready', function(e, self) {
-        console.log("Map is ready");
+        logger.log("Map is ready");
+        logger.log("Max scale: " + mapplicOptions.maxscale);
 
         $(".mapplic-search-input").attr("placeholder", "Поиск");
 
