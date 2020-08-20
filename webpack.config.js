@@ -14,7 +14,7 @@ module.exports = (env, options) => {
     return {
         name: 'interactive-map',
         entry: {
-            main: './src/app.js'
+            main: './src/main.js'
         },
         output: {
             path: path.resolve(__dirname, 'dist'),
