@@ -1,5 +1,7 @@
 const path = require('path');
 
+const Webpack = require("webpack");
+
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
@@ -86,10 +88,21 @@ module.exports = (env, options) => {
             ]
         },
         plugins: [
+            // set jQuery as global var
+            new Webpack.ProvidePlugin({
+                $: "jquery",
+                jQuery: "jquery"
+            }),
+
+            // clean dist directory before new build
             new CleanWebpackPlugin(),
+
+            // set output file name for styles
             new MiniCssExtractPlugin({
                 filename: 'style.[contenthash].css',
             }),
+
+            // set html file template
             new HtmlWebpackPlugin({
                 inject: true,
                 hash: true,
@@ -97,6 +110,8 @@ module.exports = (env, options) => {
                 template: './src/html/index.html',
                 filename: 'index.html'
             }),
+
+            // copy other files
             new CopyWebpackPlugin({
                 patterns: [
                     { from: './src/map', to: './map' },
