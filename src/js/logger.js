@@ -16,8 +16,16 @@ const logger = {
      */
     log: function (textToLog) {
         console.log(textToLog);
-        this.outputHtml.append(`<div>${textToLog}</div>`);
+        this.outputHtml.append(`<div>INFO: ${textToLog}</div>`);
+    },
+
+    /**
+     * @param {string} errorToLog
+     */
+    error: function(errorToLog) {
+        console.error(errorToLog);
+        this.outputHtml.append(`<div>ERROR: ${errorToLog}</div>`);
     }
 };
 
-module.exports.logger = logger;
+export { logger };
