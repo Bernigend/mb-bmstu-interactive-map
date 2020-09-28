@@ -24,7 +24,7 @@ const App = {
      */
     mapplicOptions: function() {
         return {
-            source: './map/mb-bmstu-config.json',
+            source: './map/mb-bmstu-config.280920.json',
             sidebar: true,
             height: "100%",
             search: true,
